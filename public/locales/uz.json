@@ -1,0 +1,1177 @@
+{
+  "navigation": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "services": "Xizmatlar",
+    "ServiceDetails": [
+      "All Services",
+      "O‘sishingizni qo‘llab-quvvatlaymiz",
+      "Import/eksport yechimlari",
+      "Qadoqlash yechimlari",
+      "Ta'minot zanjiri yechimlari",
+      "Biznes rejalashtirish va texnolog",
+      "Inson Resurslari va Konsalting",
+      "Global Biznes Imkoniyatlari",
+      "Oila uchun Sug'urta Konsalting",
+      "Yuqori sifatli mahsulotlar"
+    ],
+    "gallery": "Galereya",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "FAQs": "FAQs"
+  },
+  "home": {
+    "hero": {
+      "subtitle": "Yevropaning yuragidan global miqyosga",
+      "title": "Qit'alarni sifatli savdo orqali bog'lash",
+      "tagline": "Tabiiy mahsulotlar, global qarash",
+      "description": "Bizayla Germaniyada joylashgan xalqaro savdo kompaniyasi bo'lib, tabiiy va yuqori sifatli mahsulotlarni import va eksport qilishga ixtisoslashgan — oziq-ovqat mahsulotlari, minerallar va barqaror resurslarga alohida e'tibor qaratadi. Yevropadan Osiyo, Afrika va Amerikagacha, biz ishlab chiqaruvchilar va xalqaro bozorlar o'rtasida ishonchli ko'priklar quramiz.",
+      "explore": "Savdo yechimlarimizni o'rganing",
+      "howItWorks": "Qanday ishlaydi",
+      "powerfulTeam": "Kuchli jamoa",
+      "members": "36+ a'zo"
+    },
+    "about": {
+      "sectionTitle": "BIZAYLA HAQIDA",
+      "title1": "Global savdoni rivojlantirish",
+      "title2": "halollik va innovatsiya bilan",
+      "description": "Tashkil topganidan beri Bizayla xalqaro savdoda mustahkam poydevor yaratdi, yuqori sifatli tabiiy mahsulotlar va oziq-ovqat mahsulotlarini Yevropa, Osiyo va boshqa bozorlarga ulab kelmoqda. Bizning missiyamiz faqat bitimlar bilan cheklanmaydi — biz uzoq muddatli qiymat yaratamiz: etik manbalar, samarali logistika va ishonchli hamkorlik orqali.",
+      "feature1": "Tabiiy va oziq-ovqat mahsulotlariga ixtisoslashuv, brending va qadoqlash yechimlari",
+      "feature2": "Markaziy Osiyo va Yevropa logistika markazi, global ta'minot zanjiri yechimlari",
+      "moreAbout": "Batafsil"
+    },
+    "marquee": [
+      "SHAFFOF SAVDO",
+      "MARKETING STRATEGIYASI",
+      "MAS'UL SAVDO",
+      "TAJRIBALI JAMOA",
+      "BARQAROR SAVDO"
+    ],
+    "services": {
+      "sectionTitle": "BIZ TAKLIF QILAMIZ",
+      "subtitle": "Shaxsiy professional taklif",
+      "items": [
+        {
+          "category": "TABIIY MAHSULOTLAR",
+          "title": "Yuqori sifatli mahsulotlar",
+          "description": "Bizayla yuqori tozalikdagi tabiiy mahsulotlarni turli global ehtiyojlar uchun qadoqlab eksport qiladi.",
+          "details": "Batafsil ko'rish"
+        },
+        {
+          "category": "GLOBAL SAVDO",
+          "title": "Import/eksport yechimlari",
+          "description": "Ishlab chiqaruvchilarni global bozorlarga ulab, samarali va shaffof savdoni ta'minlaymiz.",
+          "details": "Batafsil ko'rish"
+        },
+        {
+          "category": "MAHSULOT BRENDI",
+          "title": "Qadoqlash yechimlari",
+          "description": "Global bozorlar uchun moslashtirilgan va eksportga tayyor brend va qadoqlash dizaynlarini ishlab chiqamiz.",
+          "details": "Batafsil ko'rish"
+        },
+        {
+          "category": "LOGISTIKA",
+          "title": "Ta'minot zanjiri yechimlari",
+          "description": "Ta'minot zanjiringiz uchun xavfsiz ombor va aqlli logistika xizmatlarini taklif qilamiz.",
+          "details": "Batafsil ko'rish"
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "sectionTitle": "NEGA BIZNI TANLASHADI",
+      "title": "Biz ijodiy yechimlar taqdim etamiz",
+      "description": "Global miqyosda yetakchilik ko'nikmalarini rivojlantiring, innovatsiyadan oldin standartlashtirilgan platformalarni yarating, mustahkam ilovalarsiz. Hamkorlik va g'oya almashinuvida oldinga boring.",
+      "features": [
+        "Professional jamoa a'zosi",
+        "Biznesni joriy etadi",
+        "Umrbod bepul xizmatlar",
+        "Qulay narx rejalar"
+      ],
+      "watchVideo": "Videoni ko'rish"
+    },
+    "team": {
+      "sectionTitle": "JAMOA BILAN TANISHING",
+      "title": "Bizayla'ning xalqaro jamoasi global savdoning kelajagini ishtiyoq, tajriba va hamkorlik bilan barpo etmoqda.",
+      "members": [
+        { "name": "Dr. A.K. Sadeqi", "role": "Bosh direktor" },
+        { "name": "Ilkhomjon Ismoilovich", "role": "Ijrochi direktor (CEO)" },
+        {
+          "name": "Hamed Shakeb Sadeqi",
+          "role": "Xalqaro marketing bo'yicha menejer"
+        },
+        {
+          "name": "Shakhobiddin Bokijonov",
+          "role": "Xalqaro savdo bo'yicha menejer"
+        }
+      ]
+    },
+    "testimonial": {
+      "sectionTitle": "MOLIYAVIY KONSALTING",
+      "title1": "Eng yaxshi moliyaviy konsalting",
+      "title2": "Shaharda 2007 yildan beri",
+      "description": "Innovatsiyadan oldin media yetakchilik ko'nikmalari, mustahkam ilovalarsiz standartlashtirilgan platformalarni rivojlantirish",
+      "avgRating": "Mijozlar o'rtacha reytingi",
+      "guarantee": "100% mijozlar qoniqish kafolati",
+      "h1": "Import va eksport uchun",
+      "h2": "aqlli yechimlar"
+    },
+    "counter": {
+      "projects": "Bajarilgan loyihalar Turli sohalarda ishonchli tajriba.",
+      "customers": "Faol mijozlar Dunyodagi ko'plab kompaniyalar bizga ishonadi.",
+      "ratings": "O'rtacha baho Mijozlar mamnunligi bizning ustuvor vazifamiz."
+    },
+    "contact": {
+      "sectionTitle": "BIZ BILAN BOG'LANING",
+      "title": "Advisar bilan bog'laning",
+      "form": {
+        "yourName": "Ismingiz",
+        "phoneNo": "Telefon raqami",
+        "emailAddress": "Elektron pochta manzili",
+        "subject": "Mavzu",
+        "writeMessage": "Xabar yozing",
+        "requestCallBack": "Qayta qo'ng'iroq so'rash"
+      }
+    },
+    "blog": {
+      "sectionTitle": "ENG SO'NGGI G'OYALAR VA TAHLILLARIMIZNI KASHF ETING",
+      "title1": "Bizayla blogida xalqaro savdo, brending va",
+      "title2": "qadoqlash innovatsiyalari haqida yangi qarashlarni o'rganing",
+      "title3": "hamda biznesingizni rivojlantirish uchun aqlli strategiyalarni bilib oling.",
+      "blog1": {
+        "title": "Global xizmat resurslarini to'g'ridan-to'g'ri ulash",
+        "desc": "Bizayla an'anaviy ishlab chiqaruvchilarga savdo va brend strategiyalari orqali mahalliy yutuqlarni global muvaffaqiyatga aylantirishda qanday yordam berishini bilib oling."
+      },
+      "blog2": {
+        "title": "Dunyo bilan gaplashadigan qadoqlash",
+        "desc": "Madaniyatga mos va eksportga tayyor qadoqlashning ta'sirini o'rganing — va Bizayla global bozorga qanday mos dizaynlar ishlab chiqishini bilib oling."
+      },
+      "blog3": {
+        "title": "Barqaror savdo yechimlari amaliyotda",
+        "desc": "Biz oziq-ovqat va foydali qazilmalar zanjirimizda o'sish va ekologik mas'uliyatni qanday muvozanatlayotganimizni o'rganing."
+      },
+      "date": "2024-yanvar-22",
+      "comments": "2 ta izoh"
+    },
+    "callArea": {
+      "sayHello": "Salom deying",
+      "call": "+49 178 4450530"
+    }
+  },
+  "about": {
+    "breadcrumb": {
+      "title": "Biz haqimizda",
+      "home": "Bosh sahifa",
+      "current": "Biz haqimizda"
+    },
+    "section": {
+      "activityTitle": "Bizning faoliyat sohamiz",
+      "globalImportExport": "GLOBAL IMPORT VA EKSPORT",
+      "ofGoods": "MAHSULOTLAR",
+      "desc1": "Bizayla Germaniyaning Bavariya shahrida tashkil etilgan xalqaro savdo kompaniyasi bo'lib, Markaziy Osiyoning boy tabiiy resurslarini global bozorlar bilan bog'lash missiyasiga ega. Brend 2025 yilda Dr. Abdulkarim Sadeqi (Germaniyada yashovchi) va Ilkhomjon Ismoilovich (O'zbekistonda yashovchi) tomonidan asos solingan.",
+      "desc2": "Dinamik va global yo'naltirilgan yondashuv bilan Bizayla strategik import va eksport sohasida tezda o'z o'rnini topdi va xalqaro bozorlarda mustahkam pozitsiyani egalladi.",
+      "dynamicApproach": "Dinamik va global yo'naltirilgan yondashuv",
+      "strategicImportExport": "Strategik import va eksport",
+      "moreAbout": "Batafsil",
+      "ourService": "Bizning xizmatimiz"
+    },
+    "salt": {
+      "title": "O'zbekistondan tabiiy tuz",
+      "desc": "Bizaylaning asosiy yo'nalishlaridan biri O'zbekistondan yuqori toza tabiiy tuzni global bozorga eksport qilishdir. Ushbu tuz Surxondaryo viloyatidagi Xodjaikansky konidan olinadi va quyidagi xususiyatlari bilan ajralib turadi:",
+      "features": [
+        "Natriy xlorid (NaCl) yuqori tozaligi",
+        "Oq yoki pushti kristalli tuzilma",
+        "100% tabiiy, kimyoviy qo'shimchalarsiz",
+        "Oziq-ovqat, sanoat, farmatsevtika va dekorativ foydalanish uchun mos",
+        "Turli bozorlarga moslashtirilgan, yuqori sifatli qadoqlash"
+      ],
+      "desc2": "Bizayla ushbu mahsulot uchun bir nechta qit'alarda rasmiy eksport litsenziyalariga ega va o'zbek tabiiy tuzini Yevropa va global bozorlarga professional brending va qadoqlash bilan olib kirgan birinchi kompaniyalardan biri bo'lishdan faxrlanadi.",
+      "getStarted": "Hozir boshlang"
+    },
+    "counters": {
+      "projects": "Jami bajarilgan loyihalar",
+      "customers": "Qoniqarli faol mijozlar",
+      "ratings": "Mijozlar o'rtacha reytingi"
+    },
+    "team": {
+      "title": "JAMOAMIZ",
+      "subtitle": "Mijozlarga yordam berish uchun 36+ faol va sodiq a'zolarimiz bor",
+      "desc": "Bizayla jamoasi xalqaro savdo bo'yicha mutaxassislar, tabiiy resurslar muhandislari va biznes maslahatchilaridan iborat ko'p millatli va tajribali jamoa bo'lishidan faxrlanadi. Jamoamiz global bozorlarni chuqur biladi va butun dunyo bo'ylab barqaror va ishonchli hamkorliklarni rivojlantirishga sodiqdir.",
+      "members": [
+        {
+          "name": "Zeinab Ghiyasi noei",
+          "role": "business manager In Central Asia country"
+        },
+        {
+          "name": "Oksana Shevchenko",
+          "role": "Regional Export Coordinator Europe"
+        },
+        {
+          "name": "Dilnoza Karimova",
+          "role": "Sourcing & Quality Manager Central Asia"
+        }
+      ]
+    },
+    "marquee": [
+      "SHAFFOF SAVDO",
+      "MARKETING STRATEGIYASI",
+      "MAS'UL SAVDO",
+      "TAJRIBALI JAMOA",
+      "BARQAROR SAVDO"
+    ],
+    "missionVision": {
+      "title": "Bizning missiyamiz va qarashimiz",
+      "mission": "Shaffof, mas'ul va barqaror savdo",
+      "desc": "Biz shaffof, mas'ul va barqaror savdo global taraqqiyotda muhim rol o'ynashiga ishonamiz. Bizning missiyamiz quyidagilarni o'z ichiga oladi:",
+      "points": [
+        "Markaziy Osiyoning yashirin tabiiy boyliklarini dunyoga tanishtirish",
+        "Mahalliy ishlab chiqaruvchilar va mas'ul konchilik amaliyotlarini qo'llab-quvvatlash",
+        "Xalqaro mijozlarga tez, aniq va ishonchli xizmatlar ko'rsatish"
+      ],
+      "vision": "Bizning qarashimiz — 2028 yilga kelib, tuz va tabiiy materiallar eksporti bo'yicha dunyodagi yetakchi brendlardan biriga aylanish, dunyo bo'ylab yirik kompaniyalar va sanoat uchun ishonchli manba bo'lish.",
+      "watchVideo": "Videoni ko'rish"
+    },
+    "call": {
+      "sayHello": "Salom deying",
+      "email": "info@bizayla.com",
+      "getStarted": "Hozir boshlang"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "whatsapp": "WhatsApp",
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    }
+  },
+  "service": {
+    "breadcrumb": {
+      "title": "Bizning xizmatlar",
+      "home": "Bosh sahifa",
+      "current": "Bizning xizmatlar"
+    },
+    "hero": {
+      "sectionTitle": "BIZ TAKLIF QILADIGAN XIZMATLAR",
+      "title": "Shaxsiy professional taklif",
+      "subtitle": "Biznesingiz uchun to'liq yechimlar"
+    },
+    "serviceCards": [
+      {
+        "id": "1",
+        "category": "MAHSULOT BRENDINGI",
+        "title": "O'sishingizni qo'llab-quvvatlaymiz",
+        "description": "Bizayla kompaniyasida biz global savdo va tabiiy mahsulot brendiga mos strategik, ko'p tilli veb-saytlarni loyihalashtiramiz va ishlab chiqamiz.",
+        "details": "Batafsil ko'rish",
+        "image": "/images/Main/12.png",
+        "info": {
+          "miniTitle": "ASOSIY XIZMAT",
+          "mainTitle": "Aqlli savdo va moslashtirilgan yechimlar orqali o'sishingizni kuchaytiramiz",
+          "subTitle": "Bizayla kompaniyasida biz chuqur bozor tahlillari, shaxsiylashtirilgan maslahatlar va zamonaviy qadoqlash strategiyalarini birlashtirib, korxonalarga o'z salohiyatini to'liq ochib berishda yordam beramiz. Siz ishlab chiqaruvchi, eksportchi yoki brend egasi bo'lishingizdan qat'i nazar, biz sizni barqaror va xalqaro muvaffaqiyat sari yo'naltiramiz.",
+          "cardsInfos": [
+            {
+              "title": "Biznes rejalashtirish va texnolog",
+              "info": "Bizayla kompaniyasida biz zamonaviy texnologiya va bozor tahlillariga asoslangan o'sish strategiyalarini ishlab chiqamiz. Rejalashtirish xizmatlarimiz oziq-ovqat va tabiiy mahsulot kompaniyalariga global savdoda yo'l topish, resurslarni optimallashtirish va maqsadli o'sishni ta'minlashda yordam beradi."
+            },
+            {
+              "title": "Kadrlar va Konsalting",
+              "info": "Bizayla kompaniyasi madaniy savodli va savdoga moslashgan jamoalarni shakllantirishda korxonalarga yordam beradi. HR konsaltingimiz xalqaro biznes etikasi, ko'p tilli hamkorlik va oziq-ovqat, foydali qazilmalar va eksport sohalariga ixtisoslashgan yollashni o'z ichiga oladi."
+            },
+            {
+              "title": "Global biznes imkoniyatlari",
+              "info": "Markaziy Osiyodan Yevropagacha Bizayla mahalliy ishlab chiqaruvchilar uchun eshiklarni ochadi. Brendlash, aqlli qadoqlash va logistika orqali biz tabiiy mahsulotlarni Berlin, Dubay va boshqa bozorlarga tayyor, ishonchli tovarlarga aylantiramiz."
+            },
+            {
+              "title": "Oilaviy maslahatlar uchun sug'urta",
+              "info": "Bizayla eksportchilar va biznes oilalariga yangi bozorga kirishda xavflarni boshqarish, muvofiqlik va strategik rejalashtirish bo'yicha maslahatlar beradi. Barqarorlik va imkoniyatlar bizning madaniyatlararo yondashuvimizda birlashadi."
+            }
+          ],
+          "middleInfoTitle": "Veb-sayt ishlab chiqish",
+          "middleInfo": "Bizayla kompaniyasida biz global savdo va tabiiy mahsulot brendi uchun mo'ljallangan strategik, ko'p tilli veb-saytlarni loyihalash va ishlab chiqish bilan shug'ullanamiz. Bizning raqamli platformalarimiz Markaziy Osiyodagi ishlab chiqaruvchilarni butun dunyo bo'ylab xaridorlar bilan bog'laydi – zamonaviy UI/UX standartlari, moslashuvchan dizayn va elektron tijorat xususiyatlari bilan. Tuz, organik oziq-ovqat yoki sog'liqqa asoslangan mahsulotlar – bizning saytlarimiz a'lo darajadagi foydalanuvchi tajribasini, aqlli mahsulot taqdimotini va xalqaro bozorlarga mosligini ta'minlaydi.",
+          "middleCardItems": {
+            "title": "Nima uchun Bizayla xizmatlari?",
+            "info": "Biz Bizayla'da aqlli, barqaror va xalqaro savdoga yo'naltirilgan yechimlarga ishonamiz. Bizning tajribali mutaxassislar jamoamiz mijozlarni strategiyadan tortib amalga oshirishgacha qo'llab-quvvatlaydi – oziq-ovqat va foydali qazilmalar sohalarida yuqori sifatli xizmatlarni taqdim etadi.",
+            "list": [
+              " Xalqaro mutaxassislar jamoasi",
+              " Global savdo muammolari uchun moslashtirilgan yechimlar",
+              "Eksport va import bo'yicha to'liq qo'llab-quvvatlash",
+              "Strategik brendlash va qadoqlash xizmatlari"
+            ]
+          },
+          "iconItem1": {
+            "title": "Strategik ish rejalashtirish",
+            "info": "Bizayla xalqaro savdo standartlariga moslashtirilgan ish strategiyalarini ishlab chiqadi. Rejalashtirishimiz eksport-import jarayonlarini silliq yurishini, yetkazib berish zanjirlarini optimallashtirishni va o'sishga tayyor yo'llarni ta'minlaydi."
+          },
+          "iconItem2": {
+            "title": "Biznes yechimlar",
+            "info": "Biz sizning bozoringizga mos, amaliy va barqaror biznes yechimlarini taklif qilamiz. Qadoqlash innovatsiyasi, brend maslahatlari va logistika qo'llab-quvvatlovi – Bizayla sizning global muvaffaqiyatingiz uchun to'liq xizmatni taqdim etadi."
+          },
+          "counterPart1": {
+            "count": "5K+",
+            "info": "Muvaffaqiyatli yakunlangan loyihalar"
+          },
+          "counterPart2": {
+            "count": "4.98",
+            "info": "O'rtacha mijoz bahosi"
+          },
+          "counterPart3": {
+            "count": "99%",
+            "info": "Ma'lumotga asoslangan qarorlar"
+          }
+        }
+      },
+      {
+        "id": "2",
+        "category": "GLOBAL SAVDO",
+        "title": "Import/Eksport yechimlari",
+        "description": "Ishlab chiqaruvchilarni global bozorlar bilan bog'laymiz, samarali va shaffof savdo kafolati bilan.",
+        "details": "Batafsil ko'rish",
+        "image": "/images/Main/10.jpg"
+      },
+      {
+        "id": "3",
+        "category": "MAHSULOT BRENDINGI",
+        "title": "Qadoqlash yechimlari",
+        "description": "Global bozorlar uchun moslashtirilgan, eksportga tayyor qadoqlash dizayni.",
+        "details": "Batafsil ko'rish",
+        "image": "/images/Main/14.png",
+        "info": {
+          "miniTitle": "ASOSIY XIZMAT",
+          "mainTitle": "Mahsulot Brendingi va Qadoqlash Yechimlari",
+          "subTitle": "Bizayla kompaniyasida biz mahsulotingizning global jozibasini oshiradigan, eksportga tayyor brending va qadoqlash yechimlarini yaratamiz. Noyob dizaynlardan tortib ekologik qadoqlashgacha – mahsulotlaringiz xalqaro standartlarga mos, ko‘zga ko‘ringan va global bozorga tayyor bo‘lishiga ishonch hosil qilamiz. YeChimlarimiz ko‘p tilli yorliqlar, madaniy sezuvchanlik va logistik qulaylikni o‘z ichiga oladi.",
+          "cardsInfos": [
+            {
+              "title": "Moslashtirilgan Brending va Eksportga Tayyor Qadoqlash",
+              "info": "Bizayla kompaniyasida biz mahsulotingiz sifatini saqlash bilan birga, brendingizni xalqaro bozorda ajralib turadigan tarzda qadoqlaymiz. Har bir bozorga mos va xalqaro talablar asosida ishlab chiqilgan qadoqlash yechimlarini taklif qilamiz."
+            },
+            {
+              "title": "Barqaror va Mas’uliyatli Qadoqlash",
+              "info": "Ekologik mahsulotlarga talab ortib borayotgan davrda, Bizayla qayta ishlanadigan va biologik parchalanadigan materiallardan foydalangan holda, atrof-muhitga zarar keltirmaydigan qadoqlash variantlarini taklif etadi."
+            },
+            {
+              "title": "Ko‘p Tilli Yorliqlash va Global Muvofiqlik",
+              "info": "Biz xalqaro hamkor sifatida qadoqlashda ko‘p tilli yorliqlardan foydalanamiz va turli bozorlardagi qonunlarga muvofiqligini ta’minlaymiz. Bu esa mahsulot haqidagi ma’lumotlarni tushunarli va qonuniy qiladi."
+            },
+            {
+              "title": "Logistikani Optimallashtirish va Mahsulotni Himoya Qilish",
+              "info": "Bizayla mahsulotlaringizni zarar, namlik va ifloslanishdan himoya qiladigan, ayni paytda logistika jihatidan samarali qadoqlash yechimlarini ishlab chiqadi. Bu sizga yuk tashish xarajatlarini kamaytirish va mahsulotni o‘z vaqtida yetkazib berishni ta’minlaydi."
+            }
+          ],
+          "middleInfoTitle": "Global Bozorlar Uchun Maxsus Qadoqlash va Brending Yechimlari",
+          "middleInfo": "Bizayla xalqaro bozorlar uchun moslashtirilgan va eksportga tayyor brend va qadoqlash dizaynlarida ixtisoslashgan. Biz Markaziy Osiyodagi ishlab chiqaruvchilarga innovatsion dizaynlar va xalqaro standartlar yordamida global bozorga chiqish imkoniyatini taqdim etamiz.",
+          "middleCardItems": {
+            "title": "Nega Bizayla Global Rivojlanish Uchun To‘g‘ri Tanlov?",
+            "info": "Bizayla innovatsion va moslashtirilgan yechimlar orqali sizga xalqaro bozorga chiqishda yordam beradi. Mutaxassislarimiz siz bilan strategiyadan tortib to to‘liq amalga oshirishgacha ishlaydi.",
+            "list": [
+              "Global Tajriba Sizning Xizmatingizda",
+              "Bozorga Moslashtirilgan Strategiyalar",
+              "Eksport-Import Bo‘yicha To‘liq Yechimlar",
+              "To‘liq Brending va Qadoqlash Xizmatlari"
+            ]
+          },
+          "iconItem1": {
+            "title": "Strategik Ish Rejalashtirish",
+            "info": "Bizayla xalqaro savdo standartlariga mos strategiyalarni ishlab chiqadi. Eksport-import jarayonlarini optimallashtirish, ta’minot zanjiri va oziq-ovqat hamda mineral mahsulotlar bo‘yicha o‘sish strategiyalarini taklif etamiz."
+          },
+          "iconItem2": {
+            "title": "Biznes Yechimlar",
+            "info": "Bizayla sizning bozor talablaringizga mos amaliy va barqaror biznes yechimlarini taqdim etadi – qadoqlash innovatsiyasi, brend bo‘yicha maslahatlar va logistik yordamni o‘z ichiga oladi."
+          },
+          "counterPart1": {
+            "count": "5K+",
+            "info": "Muvaffaqiyatli Loyihalar"
+          },
+          "counterPart2": {
+            "count": "4.98",
+            "info": "O‘rtacha Mijoz Reytingi"
+          },
+          "counterPart3": {
+            "count": "99%",
+            "info": "Ma’lumotlarga Asoslangan Qarorlar"
+          }
+        }
+      },
+      {
+        "id": "4",
+        "category": "LOGISTIKA",
+        "title": "Taqdimot zanjiri yechimlari",
+        "description": "Omborxona va aqlli logistika xizmatlarini taqdim etamiz.",
+        "details": "Batafsil ko'rish",
+        "image": "/images/Main/13.png"
+      },
+      {
+        "id": "5",
+        "category": "TABII MAHSULOTLAR",
+        "title": "Biznes rejalashtirish va texnolog",
+        "description": "Bizayla'da biz zamonaviy texnologiya va bozor tahliliga asoslangan o'sish strategiyalarini ishlab chiqamiz. Rejalashtirish xizmatlarimiz oziq-ovqat va tabiiy mahsulot kompaniyalariga global savdoda yo'l topish, resurslarni optimallashtirish va maqsadli rivojlanishda yordam beradi.",
+        "details": "View Details",
+        "image": "/images/Main/18.jpg"
+      },
+      {
+        "id": "6",
+        "category": "GLOBAL SAVDO",
+        "title": "Inson Resurslari va Konsalting",
+        "description": "Bizayla kompaniyalarga madaniy jihatdan moslashuvchan, savdoni yaxshi tushunadigan jamoalarni qurishda yordam beradi. Bizning HR bo'yicha konsalting xizmatlarimiz xalqaro biznes etikasi, ko'p tilli hamkorlik va oziq-ovqat, foydali qazilmalar va eksport sohalari uchun maxsus yollashga urg'u beradi.",
+        "details": "View Details",
+        "image": "/images/Main/15.png"
+      },
+      {
+        "id": "7",
+        "category": "MAHSULOT BRENDLASH",
+        "title": "Global Biznes Imkoniyatlari",
+        "description": "Markaziy Osiyodan Yevropagacha Bizayla mahalliy ishlab chiqaruvchilar uchun eshiklarni ochadi. Brendlash, aqlli qadoqlash va logistika orqali biz tabiiy mahsulotlarni global ishonchli brendlarga aylantiramiz — Berlin, Dubay va undan nariga tayyor.",
+        "details": "View Details",
+        "image": "/images/Main/19.jpg"
+      },
+      {
+        "id": "8",
+        "category": "LOGISTIKA",
+        "title": "Oila uchun Sug'urta Konsalting",
+        "description": "Bizayla eksport qiluvchilar va biznes oilalariga maslahat xizmatlarini taklif etadi, ularga xavflarni boshqarish, muvofiqlik va strategik rejalashtirishda yordam beradi. Bizning madaniyatlararo yondashuvimiz barqarorlik va imkoniyatni birlashtiradi.",
+        "details": "View Details",
+        "image": "/images/Main/20.jpg"
+      },
+      {
+        "id": "9",
+        "category": "TABIIY MAHSULOTLAR",
+        "title": "Yuqori sifatli mahsulotlar",
+        "description": "Bizayla yuqori tozalikdagi tabiiy mahsulotlarni global bozorlarga eksport qiladi.",
+        "details": "Batafsil ko'rish",
+        "image": "/images/Main/11.png",
+        "info": {
+          "miniTitle": "ASOSIY XIZMAT",
+          "mainTitle": "Tabiiy Mahsulotlar va Xalqaro Standartlar Bilan Biznesingizni Yaxshilang",
+          "subTitle": "Bizayla kompaniyasi sifatli tabiiy va organik mahsulotlar orqali sizning biznesingizni xalqaro bozorda ajralib turishini ta'minlaydi. Tabiiy tuzlardan tortib organik oziq-ovqatlargacha va moslashtirilgan qadoqlashgacha, barcha mahsulotlar xalqaro standartlarga mos holda ishlab chiqariladi. Maqsadimiz — mijozlaringizga eng yaxshisini taqdim etish va barqaror muvaffaqiyat sari yo'l ochish.",
+          "cardsInfos": [
+            {
+              "title": "Tabiiy Tuz",
+              "info": "Bizayla ishonchli konlardan olingan tabiiy tuzlarning turli xilini taklif etadi. Ushbu tuzlar barcha mineral xususiyatlarini saqlab qolgan holda ehtiyotkorlik bilan qazib olinadi va qayta ishlanadi."
+            },
+            {
+              "title": "Organik Oziq-ovqat Mahsulotlari",
+              "info": "Bizayla sog‘liqni birinchi o‘ringa qo‘yadi va kimyoviy o‘g‘itlarsiz, sun’iy qo‘shimchalarsiz ishlab chiqarilgan organik mahsulotlarni taklif etadi. Bu esa haqiqiy ta’mni saqlaydi va sog‘liq uchun foydalidir."
+            },
+            {
+              "title": "Tayyor Qadoqlash",
+              "info": "Mahsulotlarimizning qadoqlanishi funksional, tashishga qulay va dizayn jihatidan jozibali bo‘lib, sifatni saqlagan holda brend qiymatini oshiradi."
+            },
+            {
+              "title": "Mahsulot Sifati va Haqiqiyligi",
+              "info": "Bizayla mahsulotlari qat’iy sifat nazorati va tekshiruvlardan o‘tadi. Ishonchli yetkazuvchilar bilan ishlash va ilg‘or nazorat usullari xalqaro standartlarga javob berishini kafolatlaydi."
+            }
+          ],
+          "middleInfoTitle": "YuQori Sifatli Mahsulotlar",
+          "middleInfo": "Bizayla tabiiy va organik mahsulotlarni dunyo bozoriga yuqori sifatda taqdim etadi. Barcha mahsulotlar xalqaro talablar asosida ishlab chiqariladi va qadoqlanadi. Sifat xalqaro savdodagi muvaffaqiyat kalitidir.",
+          "middleCardItems": {
+            "title": "Nima Uchun Bizayla?",
+            "info": "Bizayla aql bilan qurilgan, barqaror va global savdoga yo‘naltirilgan yechimlarni taqdim etadi. Mutaxassislarimiz sizni strategiyadan tortib bajarilishga qadar qo‘llab-quvvatlaydi.",
+            "list": [
+              "Xalqaro Tajribaga Ega Jamoa",
+              "Global Savdo Muammolariga Mos Yechimlar",
+              "To‘liq Eksport va Import Qo‘llab-quvvatlash",
+              "Strategik Brend va Qadoqlash Xizmatlari"
+            ]
+          },
+          "iconItem1": {
+            "title": "Strategik Rejalashtirish",
+            "info": "Biz xalqaro savdo standartlariga mos strategiyalar yaratamiz: samarali eksport-import jarayonlari, optimallashtirilgan ta’minot zanjiri va kengayish imkoniyatlari."
+          },
+          "iconItem2": {
+            "title": "Biznes Yechimlari",
+            "info": "Innovatsion qadoqlash, brend konsultatsiyasi va logistika orqali mahalliy ishlab chiqaruvchilarni xalqaro bozorda rivojlantirishga yordam beramiz."
+          },
+          "counterPart1": {
+            "count": "5K+",
+            "info": "Muvaffaqiyatli Yekunlangan Loyihalar"
+          },
+          "counterPart2": {
+            "count": "4.98",
+            "info": "O'rtacha Mijoz Reytingi"
+          },
+          "counterPart3": {
+            "count": "99%",
+            "info": "Tahlilga Asoslangan Qarorlar"
+          }
+        }
+      }
+    ],
+    "pricing": {
+      "title": "NARXLAR REJASI",
+      "description": "Qulay narxni tanlang",
+      "description1": "sizga mos",
+      "description2": "konsultatsiya xizmati uchun",
+      "features": "Virtual veb xizmatlardan doimiy foydalaning, harakatlarni maksimal darajada bajaring. Global miqyosda front-end maslahatlarini yarating.",
+      "guaranteed1": "Halollik kafolati",
+      "guaranteed2": "Mijozni qoniqtirish markazda",
+      "starterPlan": {
+        "title": "Boshlang'ich reja",
+        "subtitle": "Kichik bizneslar uchun",
+        "features": [
+          "Maslahat. Qadoqlash. Joylashtirish. Eksport.",
+          "Qo'lda ishlangan brend yarating.",
+          "Sertifikat oling. Xalqaro bo'ling.",
+          "Tarjima qiling. Soting. Global bo'ling.",
+          "Haqiqiy global xaridorlar bilan uchrashing."
+        ],
+        "detail": [
+          "Bizayla'ning rasmiy platformalari va hamkor kanallarida mahsulotlarni targ'ib qilish",
+          "Eksport jarayonlari, qadoqlash va mahsulotni joylashtirish bo'yicha mutaxassis maslahatlari",
+          "Kichik va qo'l mehnati mahsulotlari uchun xalqaro brend qo'llab-quvvatlovi",
+          "Yevropa bozorlarida organik oziq-ovqat mahsulotlarini sotish va marketingi",
+          "Oziq, sanoat, davolovchi va gigiyenik tuzlarni targ'ib qilish va marketingi",
+          "Alohida mahsulotlar uchun onlayn savdo platformalarida joylashtirish",
+          "Mahsulot yoki brend uchun maxsus ko'rgazma sahifalari",
+          "Xom ashyo va qadoqlash materiallarini topishda yo'l-yo'riq",
+          "Eksport sertifikatlarini olishda yordam (masalan, BIO, HACCP)",
+          "Import qiluvchilar, xaridorlar va ulgurji sotuvchilar bilan bog'lanish",
+          "Oddiy, eksportga mos qadoqlash dizayni",
+          "Qadoqlash va reklama materiallarini asosiy tillarga tarjima qilish (nemis, ingliz va boshqalar)",
+          "WhatsApp, email orqali shaxsiy yordam va bosqichma-bosqich yo'riqnoma"
+        ],
+        "button": "Tafsilotlarni ko'rsatish"
+      },
+      "businessPlan": {
+        "title": "Biznes reja",
+        "subtitle": "Kompaniyalar va ishlab chiqaruvchilar uchun",
+        "features": [
+          "Mos keladi. Import. Standartlarga javob.",
+          "Eksportning har bir bosqichida qo'llab-quvvatlang.",
+          "Haqiqiy xaridorlar. Haqiqiy bitimlar.",
+          "Organik eksport. Evropaga chiqing.",
+          "Global brend identifikatsiyasini yarating."
+        ],
+        "detail": [
+          "Ko'p tilli mahsulot kataloglari bilan brendni to'liq taqdim etish",
+          "Organik oziq-ovqat mahsulotlarini Germaniya va boshqa Yevropa mamlakatlariga eksport qilish",
+          "Oziq-ovqat ishlab chiqarish korxonalarida ishlab chiqarilgan mahsulotlarni eksport qilish",
+          "O'zbekiston va boshqa davlatlardan har xil turdagi tuzlarni import qilish",
+          "Oziq-ovqat va sanoat ishlab chiqarish uchun xom ashyolarni eksport va import qilish",
+          "Oziq-ovqat kompaniyalari va brendlari uchun xalqaro marketing va distribyutsiya",
+          "Xalqaro brend imidjini yaratish va rivojlantirish bo'yicha professional xizmatlar",
+          "Me'yoriy talablarga javob beradigan ko'p tilli eksport qadoqlash dizayni",
+          "Eksport sertifikatlari va xalqaro sifat standartlarini olish bo'yicha maslahatlar",
+          "EU import talablari va xavfsizlik standartlariga muvofiqlikni ta'minlash",
+          "Bozor tadqiqotlari va talab, trendlar va raqobatchilar tahlili",
+          "Global oziq-ovqat ko'rgazmalarida ishtirok etish va rejalashtirish (masalan: ANUGA, SIAL, BioFach)",
+          "Ko'p tilli kontent yaratish va ijtimoiy tarmoqlarni boshqarish",
+          "B2B/B2C onlayn savdolarni sozlash va boshqarish (Amazon, Alibaba va boshqalar)",
+          "Xalqaro savdo belgilarini ro'yxatdan o'tkazish va mahsulot shtrix-kodlarini yaratish (EAN/GTIN)",
+          "Texnik hujjatlar, qadoqlash va reklama materiallarini tarjima qilish xizmatlari",
+          "Yevropadagi importchilar, xaridorlar va chakana sotuvchilar bilan to'g'ridan-to'g'ri bog'lanish",
+          "Global savdo va kengayishning barcha bosqichlarida to'liq qo'llab-quvvatlash",
+          "Sertifikatlangan eksport litsenziya agentliklari bilan maslahatlashuv va ulanish",
+          "Tuz, organik mahsulotlar va sanoat mahsulotlari uchun marketing, savdo va eksport xizmatlari",
+          "Yevropa bozorlariga rasmiy va halol kirish uchun qo'llab-quvvatlash va uzoq muddatli hamkorlik"
+        ],
+        "button": "Tafsilotlarni ko'rsatish"
+      }
+    },
+    "marketing": {
+      "title": "XALQARO SAVDO MASLAHATLARI",
+      "description": "Ishonchli savdo hamkoringiz",
+      "features": "Bizayla xalqaro savdo maslahatlari, eksport-import strategiyalari va oziq-ovqat, tuz va organik mahsulotlar uchun brend yaratish bo'yicha ixtisoslashgan."
+    },
+    "callArea": {
+      "title": "Oziq-ovqat yoki tuz mahsulotlarini eksport/import qilishni istaysizmi?",
+      "description": "Bizayla xalqaro savdo maslahatchilaridan maslahat oling.",
+      "description2": "Global safaringizni bugun boshlang!",
+      "button": "BIZGA QO'NG'IROQ QILING",
+      "contact": "Aloqa"
+    }
+  },
+  "blog": {
+    "breadcrumb": {
+      "title": "Blog",
+      "home": "Bosh sahifa",
+      "current": "Blog"
+    },
+    "title": "SO'NGGI BLOG YANGILIKLARI",
+    "subtitle": "Global savdo va brending bo'yicha so'nggi fikrlar",
+    "subtitle2": "Bizayla rasmiy blogiga xush kelibsiz",
+    "readMore": "Batafsil",
+    "detail": "Bu yerda biz eksport qadoqlash, brending, yetkazib berish zanjirlari va global bozor tendensiyalari bo'yicha foydali maslahatlar bilan o'rtoqlashamiz, ishlab chiqaruvchilar va eksportchilarga xalqaro bozorlarda aqlli va barqaror o'sishga erishishda yordam beramiz.",
+    "blogCards": [
+      {
+        "id": "1",
+        "title": "Mahalliy mahsulotlardan global rastalargacha",
+        "date": "20 yan. 2024",
+        "type": "BIZNES",
+        "desc": "Bizayla an'anaviy ishlab chiqaruvchilarga savdo va brend strategiyalari orqali mahalliy yutuqlarni global muvaffaqiyatga aylantirishda qanday yordam berishini bilib oling."
+      },
+      {
+        "id": "2",
+        "title": "Dunyo bilan gaplashuvchi qadoqlash",
+        "date": "16 yan. 2024",
+        "type": "BIZNES",
+        "desc": "Madaniyatga mos va eksportga tayyor qadoqlashning ta'sirini o'rganing — va Bizayla global bozorga qanday mos dizaynlar ishlab chiqishini bilib oling."
+      },
+      {
+        "id": "3",
+        "title": "Barqaror savdoning amaliyoti",
+        "date": "10 yan. 2024",
+        "type": "BIZNES",
+        "desc": "Bizayla axloqiy manbalarni va atrof-muhitga do'st logistikani birlashtirib, insonlar va sayyoraga hurmat bilan yondashuvchi o'sishni ta'minlaydi."
+      },
+      {
+        "id": "4",
+        "title": "Global o'sish uchun yashil strategiyalar",
+        "date": "4 yan. 2024",
+        "type": "BIZNES",
+        "desc": "Barqaror rejalashtirish korxonalarga xalqaro bozorlarda mas'uliyat bilan o'sishga qanday yordam berishini bilib oling."
+      },
+      {
+        "id": "5",
+        "title": "Aqlli rejalashtirish, uzoq muddatli ta'sir",
+        "date": "3 yan. 2024",
+        "type": "BIZNES",
+        "desc": "Bizayla uzoq muddatli biznes muvaffaqiyatiga ekologik toza strategiyalarni qanday integratsiya qilayotganini bilib oling."
+      },
+      {
+        "id": "6",
+        "title": "Ma'noli konsalting",
+        "date": "1 yan. 2024",
+        "type": "BIZNES",
+        "desc": "Barqarorlik bo'yicha konsalting brendlarga ekologik va ijtimoiy mas'uliyat bilan o'sish imkonini qanday berishini o'rganing."
+      },
+      {
+        "id": "7",
+        "title": "Global xizmat resurslarini vositachilarsiz boshqarish",
+        "date": "2024-yil 28-may",
+        "type": "BIZNES",
+        "desc": "Bizayla an'anaviy ishlab chiqaruvchilarga mahalliy ustunlikni aqlli savdo va brend strategiyalari orqali global muvaffaqiyatga aylantirishda qanday yordam berishini bilib oling."
+      },
+      {
+        "id": "8",
+        "title": "Dunyo bilan gaplashadigan qadoqlash",
+        "date": "2024-yil 20-may",
+        "type": "BIZNES",
+        "desc": "Madaniy jihatdan mos, eksportga tayyor qadoqlashning ta'sirini o'rganing – va Bizayla dizaynlarni global bozorga qanday moslashtiradi."
+      },
+      {
+        "id": "9",
+        "title": "Barqaror savdo yechimlari amaliyotda",
+        "date": "2024-yil 10-may",
+        "type": "BIZNES",
+        "desc": "Biz oziq-ovqat va foydali qazilmalar ta'minot zanjirlarimizda tijorat o'sishini ekologik logistik va etik ta'minot bilan qanday uyg'unlashtirishimizni bilib oling."
+      }
+    ]
+  },
+  "contact": {
+    "breadcrumb": {
+      "title": "Biz bilan bog'laning",
+      "home": "Bosh sahifa",
+      "current": "Kontakt"
+    },
+    "section": {
+      "getInTouch": "BIZ BILAN BOG'LANING",
+      "howToReach": "Qanday bog'lanish mumkin:",
+      "description": "Bizayla uchun mijozlar, hamkorlar va biznes sheriklar bilan aniq va samarali muloqot asosiy qadriyatlarimizdan biridir. Biz har doim sizning so'rovlaringiz, takliflaringiz va iltimoslaringizga e'tibor va hurmat bilan javob berishga tayyormiz. Siz biznes hamkorligi, mahsulot xaridi, eksport imkoniyatlari, vakillik yoki boshqa masalalarda qiziqsangiz — Bizayla qo'llab-quvvatlash va boshqaruv jamoasi sizga yordam berishga tayyor."
+    },
+    "info": {
+      "callAnytime": "Istalgan vaqtda qo'ng'iroq qiling",
+      "emailAnytime": "Istalgan vaqtda elektron pochta yuboring.",
+      "phone": "+491749111715",
+      "phone2": "+998 99 888 88 88",
+      "emailLabel": "Bizga elektron pochta yuboring",
+      "email": "info@bizayla.com",
+      "locations": "Bizning manzillarimiz",
+      "address": "Bizayla: Darmstädter Straße 11, 63811 Stockstadt, Bayern, Germany",
+      "address2": "Chorbog Neighborhood, Sherobod District, Surxondaryo Region, 191400 Republic of Uzbekistan"
+    },
+    "form": {
+      "contactUs": "BIZ BILAN BOG'LANING",
+      "getInTouch": "BIZAYLA bilan bog'laning",
+      "yourName": "Ismingiz",
+      "phoneNo": "Telefon raqami",
+      "emailAddress": "Elektron pochta manzili",
+      "subject": "Mavzu",
+      "writeMessage": "Xabar yozing",
+      "requestCallBack": "Qayta qo'ng'iroq so'rash"
+    },
+    "callArea": {
+      "sayHello": "Salom deying",
+      "call": "+49 178 4450530"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "whatsapp": "WhatsApp",
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    }
+  },
+  "gallery": {
+    "breadcrumb": {
+      "title": "Galereya",
+      "home": "Bosh sahifa",
+      "current": "Galereya"
+    },
+    "hero": {
+      "sectionTitle": "SO'NGGI ISHLAR",
+      "title1": "Haqiqiy natijalarni ko'ring",
+      "title2": "So'nggi ishlar"
+    },
+    "filters": {
+      "allItems": "Barcha obyektlar",
+      "exportTechnology": "Eksport texnologiyalari",
+      "globalTrade": "Global savdo",
+      "packagingDesign": "Qadoqlash dizayni",
+      "salt": "Tuz",
+      "organicFood": "Organik oziq-ovqat",
+      "driedFruits": "Quritilgan mevalar",
+      "driedVegetables": "Quritilgan sabzavotlar",
+      "nuts": "Yong'oqlar",
+      "foodIndustry": "Oziq-ovqat sanoati"
+    },
+    "items": [
+      {
+        "id": "1",
+        "category": "Eksport texnologiyalari",
+        "title": "Ilg'or eksport yechimlari",
+        "image": "/images/inner-img/port_1.png",
+        "alt": "Eksport texnologiyalari",
+        "filterClasses": "export-technology"
+      },
+      {
+        "id": "2",
+        "category": "Global savdo",
+        "title": "Xalqaro savdo tarmog'i",
+        "image": "/images/inner-img/port_2.png",
+        "alt": "Global savdo",
+        "filterClasses": "global-trade"
+      },
+      {
+        "id": "10",
+        "category": "Eksport texnologiyalari va global savdo",
+        "title": "Integratsiyalashgan eksport yechimlari",
+        "image": "/images/inner-img/port_4.png",
+        "alt": "Eksport texnologiyalari va global savdo",
+        "filterClasses": "export-technology global-trade"
+      },
+      {
+        "id": "3",
+        "category": "Qadoqlash dizayni",
+        "title": "Moslashtirilgan eksport qadoqlash",
+        "image": "/images/inner-img/port_3.png",
+        "alt": "Qadoqlash dizayni",
+        "filterClasses": "packaging-design"
+      },
+      {
+        "id": "12",
+        "category": "Qadoqlash dizayni va oziq-ovqat sanoati",
+        "title": "Oziq-ovqat sanoati uchun qadoqlash",
+        "image": "/images/inner-img/port_6.png",
+        "alt": "Qadoqlash dizayni va oziq-ovqat sanoati",
+        "filterClasses": "packaging-design food-industry"
+      },
+      {
+        "id": "4",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(2).png",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "14",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(1).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "15",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(2).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "16",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(3).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "17",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(4).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "18",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(5).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "19",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(6).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "20",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(7).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "21",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(8).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "22",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(9).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "23",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(10).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "24",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(11).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "25",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(12).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "26",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(13).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "27",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(14).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "28",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(15).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "29",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(16).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "30",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(17).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "31",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(18).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "32",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(19).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "33",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(20).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "34",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(21).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "35",
+        "category": "Tabiiy tuz",
+        "title": "O'zbekiston tabiiy tuz eksporti",
+        "image": "/images/Gallery/Salt/salt(22).jpg",
+        "alt": "Tabiiy tuz",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "5",
+        "category": "Organik oziq-ovqat",
+        "title": "Premium organik mahsulotlar",
+        "image": "/images/inner-img/port_5.png",
+        "alt": "Organik oziq-ovqat",
+        "filterClasses": "organic-food"
+      },
+      {
+        "id": "11",
+        "category": "Organik oziq-ovqat va quritilgan mevalar",
+        "title": "Tabiiy organik mahsulotlar",
+        "image": "/images/inner-img/port_5.png",
+        "alt": "Organik oziq-ovqat va quritilgan mevalar",
+        "filterClasses": "organic-food dried-fruits"
+      },
+      {
+        "id": "6",
+        "category": "Quritilgan mevalar",
+        "title": "Premium quritilgan mevalar",
+        "image": "/images/inner-img/port_6.png",
+        "alt": "Quritilgan mevalar",
+        "filterClasses": "dried-fruits"
+      },
+      {
+        "id": "7",
+        "category": "Quritilgan sabzavotlar",
+        "title": "Tabiiy quritilgan sabzavotlar",
+        "image": "/images/inner-img/port_1.png",
+        "alt": "Quritilgan sabzavotlar",
+        "filterClasses": "dried-vegetables"
+      },
+      {
+        "id": "8",
+        "category": "Yong'oqlar",
+        "title": "Premium yong'oqlar",
+        "image": "/images/inner-img/port_2.png",
+        "alt": "Yong'oqlar",
+        "filterClasses": "nuts"
+      },
+      {
+        "id": "9",
+        "category": "Oziq-ovqat sanoati",
+        "title": "Oziq-ovqat sanoati yechimlari",
+        "image": "/images/inner-img/port_3.png",
+        "alt": "Oziq-ovqat sanoati",
+        "filterClasses": "food-industry"
+      },
+      {
+        "id": "36",
+        "category": "Eksport texnologiyalari",
+        "title": "Ilg'or eksport yechimlari",
+        "image": "/images/Gallery/Export-Tech/Tech(2).png",
+        "alt": "Eksport texnologiyalari",
+        "filterClasses": "export-technology"
+      },
+      {
+        "id": "37",
+        "category": "Eksport texnologiyalari",
+        "title": "Ilg'or eksport yechimlari",
+        "image": "/images/Gallery/Export-Tech/Tech(3).png",
+        "alt": "Eksport texnologiyalari",
+        "filterClasses": "export-technology"
+      },
+      {
+        "id": "38",
+        "category": "Global savdo",
+        "title": "Xalqaro savdo tarmog'i",
+        "image": "/images/Gallery/Global-Trade/Global(2).jpg",
+        "alt": "Global savdo",
+        "filterClasses": "global-trade"
+      },
+      {
+        "id": "39",
+        "category": "Global savdo",
+        "title": "Xalqaro savdo tarmog'i",
+        "image": "/images/Gallery/Global-Trade/Global(3).jpg",
+        "alt": "Global savdo",
+        "filterClasses": "global-trade"
+      },
+      {
+        "id": "40",
+        "category": "Global savdo",
+        "title": "Xalqaro savdo tarmog'i",
+        "image": "/images/Gallery/Global-Trade/Global(4).jpg",
+        "alt": "Global savdo",
+        "filterClasses": "global-trade"
+      },
+      {
+        "id": "41",
+        "category": "Qadoqlash dizayni",
+        "title": "Moslashtirilgan eksport qadoqlash",
+        "image": "/images/Gallery/Packaging-Design/Pack(2).jpg",
+        "alt": "Qadoqlash dizayni",
+        "filterClasses": "packaging-design"
+      },
+      {
+        "id": "42",
+        "category": "Qadoqlash dizayni",
+        "title": "Moslashtirilgan eksport qadoqlash",
+        "image": "/images/Gallery/Packaging-Design/Pack(3).jpg",
+        "alt": "Qadoqlash dizayni",
+        "filterClasses": "packaging-design"
+      },
+      {
+        "id": "44",
+        "category": "Organik oziq-ovqat",
+        "title": "Premium organik mahsulotlar",
+        "image": "/images/Gallery/Organic-Food/Organic(2).jpg",
+        "alt": "Organik oziq-ovqat",
+        "filterClasses": "organic-food"
+      },
+      {
+        "id": "45",
+        "category": "Organik oziq-ovqat",
+        "title": "Premium organik mahsulotlar",
+        "image": "/images/Gallery/Organic-Food/Organic(3).jpg",
+        "alt": "Organik oziq-ovqat",
+        "filterClasses": "organic-food"
+      },
+      {
+        "id": "46",
+        "category": "Quritilgan mevalar",
+        "title": "Premium quritilgan mevalar",
+        "image": "/images/Gallery/Dried-Food/Dried(2).jpg",
+        "alt": "Quritilgan mevalar",
+        "filterClasses": "dried-fruits"
+      },
+      {
+        "id": "47",
+        "category": "Quritilgan sabzavotlar",
+        "title": "Tabiiy quritilgan sabzavotlar",
+        "image": "/images/Gallery/Dried-Veg/Dried(2).jpg",
+        "alt": "Quritilgan sabzavotlar",
+        "filterClasses": "dried-vegetables"
+      },
+      {
+        "id": "48",
+        "category": "Yong'oqlar",
+        "title": "Premium yong'oqlar",
+        "image": "/images/Gallery/Nuts/Nuts(2).jpg",
+        "alt": "Yong'oqlar",
+        "filterClasses": "nuts"
+      },
+      {
+        "id": "49",
+        "category": "Yong'oqlar",
+        "title": "Premium yong'oqlar",
+        "image": "/images/Gallery/Nuts/Nuts(2) (1).jpg",
+        "alt": "Yong'oqlar",
+        "filterClasses": "nuts"
+      },
+      {
+        "id": "50",
+        "category": "Oziq-ovqat sanoati",
+        "title": "Oziq-ovqat sanoati yechimlari",
+        "image": "/images/Gallery/Food-Industry/Food(2).jpg",
+        "alt": "Oziq-ovqat sanoati",
+        "filterClasses": "food-industry"
+      },
+      {
+        "id": "51",
+        "category": "Oziq-ovqat sanoati",
+        "title": "Oziq-ovqat sanoati yechimlari",
+        "image": "/images/Gallery/Food-Industry/Food(3).jpg",
+        "alt": "Oziq-ovqat sanoati",
+        "filterClasses": "food-industry"
+      }
+    ]
+  },
+  "footer": {
+    "about": {
+      "title": "Biz haqimizda",
+      "desc": "Bizayla — bu Markaziy Osiyodagi yuqori sifatli tabiiy mahsulotlarni aqlli qadoqlash, ishonchli logistika va kuchli hamkorlik orqali xalqaro bozorlar bilan bog'laydigan global savdo va brending kompaniyasi."
+    },
+    "company": {
+      "title": "Kompaniya",
+      "about": "Biz haqimizda",
+      "blog": "Blog",
+      "contact": "Aloqa",
+      "gallery": "Galereya"
+    },
+    "service": {
+      "title": "Xizmatlar",
+      "trade": "Xalqaro savdo",
+      "export": "Eksport boshqaruvi",
+      "packaging": "Oziq-ovqat va mineral qadoqlash",
+      "marketing": "Brending va marketing",
+      "supply": "Ta'minot zanjiri va omborxona"
+    }
+  },
+  "common": {
+    "loading": "Yuklanmoqda...",
+    "error": "Xatolik yuz berdi",
+    "notFound": "Sahifa topilmadi",
+    "backToHome": "Bosh sahifaga qaytish"
+  },
+  "faq": {
+    "breadcrumb": {
+      "title": "FAQs",
+      "home": "Home",
+      "current": "faq"
+    },
+    "header": {
+      "title": "KO‘P BERILADIGAN SAVOLLAR",
+      "desc": "Xizmatlaringiz bo‘yicha tezkor javoblar"
+    },
+    "faqData": [
+      {
+        "question": "Qanday xizmatlarni taqdim etasiz?",
+        "answer": "Bizayla xalqaro savdo va eksport bo'yicha yechimlarni taklif etadi, oziq-ovqat va tabiiy mahsulotlarni qadoqlash, global brending va aqlli logistika sohalariga ixtisoslashgan. Biz korxonalarga moslashtirilgan maslahatlar, mahsulot yetkazib berish va chegaradosh ta'minot zanjiri boshqaruvi orqali o'z imkoniyatlarini kengaytirishda yordam beramiz — har bir mahsulot xalqaro bozorlarga tayyor bo'lishini ta'minlaymiz."
+      },
+      {
+        "question": "Oddiy loyiha qancha vaqt oladi?",
+        "answer": "Bizayla loyihasining davomiyligi mahsulot turi, maqsadli bozor va logistika talablariga bog'liq. Masalan, eksportga tayyor qadoqlash va hujjatlarni tayyorlash 1–3 hafta davom etishi mumkin, katta hajmdagi yetkazib berish va ta'minot zanjiri operatsiyalari esa 1–3 oy talab qilishi mumkin. Biz har bir mijozning ehtiyojlari va manzil mamlakatining qoidalariga muvofiq aniq muddatlarni belgilaymiz."
+      },
+      {
+        "question": "Doimiy qo'llab-quvvatlashni taqdim etasizmi?",
+        "answer": "Ha, Bizayla eksport va savdo jarayonining har bir bosqichida doimiy qo'llab-quvvatlashni taqdim etadi. Mahsulot yetkazib berish va qadoqlashdan tortib, hujjatlarni rasmiylashtirish, logistika muvofiqlashtirish va jo'natmadan keyingi kuzatuvgacha, biz mijozlarimiz bilan doimiy aloqada bo'lamiz. Jamoamiz bojxona rasmiylashtiruvi, normativlarga rioya qilish va ishonchli yetkazib berishni ta'minlaydi hamda har bir jo'natma va uzoq muddatli hamkorlik uchun alohida yordam ko'rsatadi."
+      },
+      {
+        "question": "Qanday texnologiyalardan foydalanasiz?",
+        "answer": "Bizayla'da biz ilg'or ta'minot zanjiri vositalari, raqamli savdo boshqaruv tizimlari va aqlli qadoqlash texnologiyalarining kombinatsiyasidan foydalanamiz. Bizning yechimlarimizga avtomatlashtirilgan buyurtma kuzatuvi, ko'p tilli B2B platformalari, real vaqt inventarizatsiya monitoringi va logistika optimallashtirish dasturlari kiradi. Ushbu texnologiyalar bizga o'z vaqtida yetkazib berish, mahsulotni kuzatish va xalqaro hamkorlar bilan uzluksiz muloqotni ta'minlashga yordam beradi."
+      },
+      {
+        "question": "Ishlab chiqaruvchilar, kompaniyalar va oziq-ovqat mahsulotlari uchun xalqaro marketing xostingi va savdo xizmatlarini taklif qilasizmi?",
+        "answer": "Ha, Bizayla ishlab chiqaruvchilar va kompaniyalar uchun xalqaro marketing xostingi va oziq-ovqat hamda tabiiy mahsulotlarni sotish bo'yicha kompleks xizmatlarni taqdim etadi. Biz ko'p tilli raqamli platformalar, mahsulot taqdimot sahifalari, brend taqdimotlari va kontent boshqaruv tizimlarini yaratamiz, bu esa korxonalarga o'z mahsulotlarini Yevropa, Yaqin Sharq va Osiyodagi maqsadli bozorlarga chiqarishda yordam beradi. Xizmatlarimiz quyidagilarni o'z ichiga oladi: maxsus mahsulot savdo sahifalarini xosting va dizayni, raqamli marketing, eksportni optimallashtirish (qadoqlash, hujjatlar, ko'p tilli taqdimot), ishlab chiqaruvchilar va global xaridorlar/distribyutorlar o'rtasida to'g'ridan-to'g'ri aloqa. Bizayla — bu mahalliy ishlab chiqish va global talab o'rtasidagi ko'prik: biz bilan mahsulotlaringiz xalqaro muvaffaqiyatga tayyor."
+      }
+    ]
+  }
+}

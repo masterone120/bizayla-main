@@ -1,0 +1,222 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+.dark {
+  --background: #111111;
+  --foreground: #ffffff;
+}
+
+@font-face {
+  font-family: Flaticon;
+  src: url("/fonts/Flaticon.eot") format("eot");
+  src: url("/fonts/Flaticon.woff") format("woff"),
+    url("/fonts/Flaticon.woff2") format("woff2"),
+    url("/fonts/Flaticon.ttf") format("truetype");
+}
+
+body {
+  background-color: var(--background);
+  padding: 0;
+  margin: 0;
+  overflow: auto;
+  color: var(--foreground);
+  font-family: Flaticon;
+}
+
+/* FAQ Accordion Styles */
+.faq_area {
+  padding: 100px 0;
+  background: #f8f9fa;
+}
+
+.accordion {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.accordion li {
+  background: #fff;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.accordion li a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 25px;
+  text-decoration: none;
+  color: #333;
+  font-weight: 600;
+  font-size: 16px;
+  transition: all 0.3s ease;
+  background: #fff;
+}
+
+.accordion li a:hover {
+  background: #f8f9fa;
+  color: #006666;
+}
+
+.accordion li a.active {
+  background: #006666;
+  color: #fff;
+}
+
+.accordion li a span {
+  flex: 1;
+  margin-right: 15px;
+}
+
+.accordion li a i {
+  font-size: 18px;
+  transition: transform 0.3s ease;
+}
+
+.accordion li a.active i {
+  transform: rotate(180deg);
+}
+
+.accordion li p {
+  padding: 0 25px 20px;
+  margin: 0;
+  color: #666;
+  line-height: 1.6;
+  font-size: 14px;
+  background: #fff;
+  border-top: 1px solid #eee;
+}
+
+/* Animation for accordion content */
+.accordion li p {
+  transition: all 0.3s ease;
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+}
+
+.accordion li.active p {
+  max-height: 200px;
+  opacity: 1;
+  padding: 20px 25px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .accordion li a {
+    padding: 15px 20px;
+    font-size: 14px;
+  }
+
+  .accordion li p {
+    padding: 0 20px 15px;
+    font-size: 13px;
+  }
+}
+
+/* Language Switcher Styles */
+.language-switcher-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 100%;
+}
+
+.language-switcher-container button {
+  background: transparent;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: #374151;
+}
+
+.language-switcher-container button:hover {
+  background-color: #f9fafb;
+  border-color: #d1d5db;
+}
+
+.language-switcher-container .dropdown {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  min-width: 160px;
+  margin-top: 4px;
+}
+
+.language-switcher-container .dropdown button {
+  width: 100%;
+  border: none;
+  border-radius: 0;
+  padding: 12px 16px;
+  text-align: left;
+  background: transparent;
+  color: #374151;
+  transition: background-color 0.2s ease;
+}
+
+.language-switcher-container .dropdown button:hover {
+  background-color: #f9fafb;
+}
+
+.language-switcher-container .dropdown button.active {
+  background-color: #eff6ff;
+  color: #2563eb;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .language-switcher-container button {
+    background-color: #1f2937;
+    border-color: #374151;
+    color: #d1d5db;
+  }
+
+  .language-switcher-container button:hover {
+    background-color: #374151;
+    border-color: #4b5563;
+  }
+
+  .language-switcher-container .dropdown {
+    background-color: #1f2937;
+    border-color: #374151;
+  }
+
+  .language-switcher-container .dropdown button {
+    color: #d1d5db;
+  }
+
+  .language-switcher-container .dropdown button:hover {
+    background-color: #374151;
+  }
+
+  .language-switcher-container .dropdown button.active {
+    background-color: #1e3a8a;
+    color: #60a5fa;
+  }
+}

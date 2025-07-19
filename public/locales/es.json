@@ -1,0 +1,1178 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "services": "Servicios",
+    "ServiceDetails": [
+      "All Services",
+      "Impulsando tu crecimiento",
+      "Soluciones de importación/exportación",
+      "Soluciones de embalaje",
+      "Soluciones para la cadena de suministro",
+      "Planificación Empresarial y Tecnología",
+      "Recursos Humanos y Consultoría",
+      "Oportunidades de Negocio Global",
+      "Consultoría de Seguros para Familias",
+      "Productos de alta calidad"
+    ],
+    "gallery": "Galería",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "FAQs": "FAQs"
+  },
+  "home": {
+    "hero": {
+      "subtitle": "Del corazón de Europa al alcance global",
+      "title": "Conectando continentes a través del comercio de calidad",
+      "tagline": "Productos naturales, visión global",
+      "description": "Bizayla es una empresa comercial global con sede en Alemania, especializada en la importación y exportación de productos naturales y de alta calidad, con un fuerte enfoque en productos alimenticios, minerales y recursos sostenibles. Desde Europa hasta Asia, África y América, construimos puentes de confianza entre productores y mercados internacionales.",
+      "explore": "Explorar nuestras soluciones comerciales",
+      "howItWorks": "Cómo funciona",
+      "powerfulTeam": "Equipo poderoso",
+      "members": "36+ miembros"
+    },
+    "about": {
+      "sectionTitle": "SOBRE BIZAYLA",
+      "title1": "Impulsando el comercio global",
+      "title2": "con integridad e innovación",
+      "description": "Desde su establecimiento, Bizayla ha construido una base sólida en el comercio internacional al conectar productos naturales y alimenticios de alta calidad con mercados en Europa, Asia y más allá. Nuestra misión va más allá de las transacciones: creamos valor a largo plazo a través de la obtención ética, la logística eficiente y asociaciones confiables.",
+      "feature1": "Especialización en productos naturales y alimenticios, soluciones de marca y empaque personalizadas",
+      "feature2": "Centro logístico de Asia Central y Europa, soluciones de cadena de suministro global",
+      "moreAbout": "Más sobre nosotros"
+    },
+    "marquee": [
+      "COMERCIO TRANSPARENTE",
+      "ESTRATEGIA DE MARKETING",
+      "COMERCIO RESPONSABLE",
+      "EQUIPO EXPERIMENTADO",
+      "COMERCIO SOSTENIBLE"
+    ],
+    "services": {
+      "sectionTitle": "SERVICIOS QUE OFRECEMOS",
+      "subtitle": "Oferta profesional individual",
+      "items": [
+        {
+          "category": "PRODUCTOS NATURALES",
+          "title": "Productos de alta calidad",
+          "description": "Bizayla exporta productos naturales de alta pureza para usos globales diversos, con empaques adecuados.",
+          "details": "Ver detalles"
+        },
+        {
+          "category": "COMERCIO GLOBAL",
+          "title": "Soluciones de importación/exportación",
+          "description": "Conectamos a los productores con mercados internacionales, garantizando un comercio eficiente y transparente.",
+          "details": "Ver detalles"
+        },
+        {
+          "category": "BRANDING DE PRODUCTOS",
+          "title": "Soluciones de embalaje",
+          "description": "Diseñamos marcas y empaques personalizados y listos para exportación, adaptados a los mercados globales.",
+          "details": "Ver detalles"
+        },
+        {
+          "category": "LOGÍSTICA",
+          "title": "Soluciones para la cadena de suministro",
+          "description": "Ofrecemos almacenamiento seguro y logística inteligente para tu cadena de suministro.",
+          "details": "Ver detalles"
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "sectionTitle": "POR QUÉ ELEGIRNOS",
+      "title": "Ofrecemos soluciones creativas",
+      "description": "Involúcrese globalmente en el liderazgo cross-media antes de la innovación cross-media, desarrolle plataformas estandarizadas sin aplicaciones robustas. Avance fácilmente en la colaboración y el intercambio de ideas.",
+      "features": [
+        "Miembro del equipo profesional",
+        "Implementa negocios",
+        "Servicios gratuitos de por vida",
+        "Planes de precios asequibles"
+      ],
+      "watchVideo": "Ver video"
+    },
+    "team": {
+      "sectionTitle": "CONOCE AL EQUIPO",
+      "title": "El equipo internacional de Bizayla construye el futuro del comercio global con pasión, experiencia y colaboración.",
+      "members": [
+        { "name": "Dr. A.K. Sadeqi", "role": "Director general" },
+        { "name": "Ilkhomjon Ismoilovich", "role": "Director ejecutivo (CEO)" },
+        {
+          "name": "Hamed Shakeb Sadeqi",
+          "role": "Gerente de marketing internacional"
+        },
+        {
+          "name": "Shakhobiddin Bokijonov",
+          "role": "Gerente de ventas internacionales"
+        }
+      ]
+    },
+    "testimonial": {
+      "sectionTitle": "CONSULTORÍA FINANCIERA",
+      "title1": "La mejor consultoría financiera",
+      "title2": "En la ciudad desde 2007",
+      "description": "Habilidades de liderazgo en medios antes de la innovación cross-media, desarrollo de plataformas estandarizadas sin",
+      "avgRating": "Calificación promedio de los clientes",
+      "guarantee": "Garantía de satisfacción del cliente al 100%",
+      "h1": "Soluciones inteligentes para",
+      "h2": "importación y exportación"
+    },
+    "counter": {
+      "projects": "Proyectos completados Experiencia comprobada en diversas industrias.",
+      "customers": "Clientes activos Con la confianza de empresas en todo el mundo.",
+      "ratings": "Calificación promedio La satisfacción del cliente es nuestra prioridad."
+    },
+    "contact": {
+      "sectionTitle": "CONTÁCTENOS",
+      "title": "Póngase en contacto con advisar",
+      "form": {
+        "yourName": "Su nombre",
+        "phoneNo": "Número de teléfono",
+        "emailAddress": "Dirección de correo electrónico",
+        "subject": "Asunto",
+        "writeMessage": "Escribir mensaje",
+        "requestCallBack": "Solicitar devolución de llamada"
+      }
+    },
+    "blog": {
+      "sectionTitle": "DESCUBRE NUESTRAS ÚLTIMAS IDEAS E INSPIRACIONES",
+      "title1": "Explora el blog de Bizayla para obtener nuevas perspectivas sobre",
+      "title2": "el comercio internacional, la marca y la innovación en envases",
+      "title3": "y estrategias inteligentes para hacer crecer tu negocio.",
+      "blog1": {
+        "title": "Desintermediación global de recursos de servicios",
+        "desc": "Descubre cómo Bizayla ayuda a los productores tradicionales a convertir la excelencia local en éxito global mediante estrategias inteligentes de comercio y marca."
+      },
+      "blog2": {
+        "title": "Empaques que hablan al mundo",
+        "desc": "Explora el impacto de los empaques culturalmente conscientes y listos para exportar — y cómo Bizayla adapta los diseños a los mercados globales."
+      },
+      "blog3": {
+        "title": "Soluciones comerciales sostenibles en la práctica",
+        "desc": "Conoce cómo equilibramos el crecimiento comercial con una logística ecológica y abastecimiento ético en nuestras cadenas de suministro de alimentos y minerales."
+      },
+      "date": "22 ene, 2024",
+      "comments": "2 comentarios"
+    },
+    "callArea": {
+      "sayHello": "Di hola",
+      "call": "+49 178 4450530"
+    }
+  },
+  "about": {
+    "breadcrumb": {
+      "title": "Sobre nosotros",
+      "home": "Inicio",
+      "current": "Sobre nosotros"
+    },
+    "section": {
+      "activityTitle": "Nuestro campo de actividad",
+      "globalImportExport": "IMPORTACIÓN Y EXPORTACIÓN GLOBAL",
+      "ofGoods": "DE MERCANCÍAS",
+      "desc1": "Bizayla es una empresa comercial internacional establecida en Baviera, Alemania, con la misión de cerrar la brecha entre los ricos recursos naturales de Asia Central y los mercados globales. La marca fue fundada en 2025 por el Dr. Abdulkarim Sadeqi (residente en Alemania) e Ilkhomjon Ismoilovich (residente en Uzbekistán).",
+      "desc2": "Con un enfoque dinámico y orientado globalmente, Bizayla ha expandido rápidamente su presencia en el campo de la importación y exportación estratégica, asegurando una posición sólida en los mercados internacionales.",
+      "dynamicApproach": "Enfoque dinámico y orientado globalmente",
+      "strategicImportExport": "Importación y exportación estratégica",
+      "moreAbout": "Más sobre nosotros",
+      "ourService": "Nuestro servicio"
+    },
+    "salt": {
+      "title": "Sal natural de Uzbekistán",
+      "desc": "Una de las principales especialidades de Bizayla es la exportación de sal natural de alta pureza de Uzbekistán a los mercados globales. Esta sal se obtiene de la mina Khodjaikansky, ubicada en la región de Surkhandarya, y se distingue por las siguientes características:",
+      "features": [
+        "Alta pureza de cloruro de sodio (NaCl)",
+        "Estructura cristalina blanca o rosada",
+        "100% natural, libre de aditivos químicos",
+        "Adecuado para uso alimentario, industrial, farmacéutico y decorativo",
+        "Embalaje personalizable y de alta calidad adaptado a varios mercados"
+      ],
+      "desc2": "Bizayla posee licencias oficiales de exportación para este producto en varios continentes y se enorgullece de ser una de las primeras empresas en introducir la sal natural uzbeka en los mercados europeos y globales con una marca y empaque profesional.",
+      "getStarted": "Comenzar ahora"
+    },
+    "counters": {
+      "projects": "Total de proyectos completados",
+      "customers": "Clientes activos satisfechos",
+      "ratings": "Calificación promedio de los clientes"
+    },
+    "team": {
+      "title": "NUESTRO EQUIPO",
+      "subtitle": "Contamos con más de 36 miembros activos y dedicados para ayudar a los clientes",
+      "desc": "En Bizayla, estamos orgullosos de nuestro equipo multinacional y experimentado, compuesto por expertos en comercio internacional, ingenieros de recursos naturales y consultores de negocios. Con un profundo conocimiento de los mercados globales, nuestro equipo se compromete a construir asociaciones sostenibles y confiables en todo el mundo.",
+      "members": [
+        {
+          "name": "Zeinab Ghiyasi noei",
+          "role": "business manager In Central Asia country"
+        },
+        {
+          "name": "Oksana Shevchenko",
+          "role": "Regional Export Coordinator Europe"
+        },
+        {
+          "name": "Dilnoza Karimova",
+          "role": "Sourcing & Quality Manager Central Asia"
+        }
+      ]
+    },
+    "marquee": [
+      "COMERCIO TRANSPARENTE",
+      "ESTRATEGIA DE MARKETING",
+      "COMERCIO RESPONSABLE",
+      "EQUIPO EXPERIMENTADO",
+      "COMERCIO SOSTENIBLE"
+    ],
+    "missionVision": {
+      "title": "Nuestra misión y visión",
+      "mission": "Comercio transparente, responsable y sostenible",
+      "desc": "Creemos que el comercio transparente, responsable y sostenible juega un papel vital en el progreso global. Nuestra misión incluye:",
+      "points": [
+        "Presentar al mundo los tesoros naturales ocultos de Asia Central",
+        "Apoyar a los productores locales y las prácticas mineras responsables",
+        "Proporcionar servicios rápidos, precisos y confiables a clientes internacionales"
+      ],
+      "vision": "Nuestra visión es convertirnos, para 2028, en una de las principales marcas globales en la exportación de sal y materiales naturales, una referencia confiable para las principales empresas e industrias de todo el mundo.",
+      "watchVideo": "Ver video"
+    },
+    "call": {
+      "sayHello": "Di hola",
+      "email": "info@bizayla.com",
+      "getStarted": "Comenzar ahora"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "whatsapp": "WhatsApp",
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    }
+  },
+  "service": {
+    "breadcrumb": {
+      "title": "Nuestros Servicios",
+      "home": "Inicio",
+      "current": "Nuestros Servicios"
+    },
+    "hero": {
+      "sectionTitle": "SERVICIOS QUE OFRECEMOS",
+      "title": "Oferta Profesional para Individuos",
+      "subtitle": "Soluciones integrales para tu negocio"
+    },
+    "serviceCards": [
+      {
+        "id": "1",
+        "category": "MARCA DE PRODUCTO",
+        "title": "Impulsamos tu crecimiento",
+        "description": "En Bizayla, diseñamos y desarrollamos sitios web estratégicos y multilingües, adaptados al comercio global y al branding de productos naturales.",
+        "details": "Ver detalles",
+        "image": "/images/Main/12.png",
+        "info": {
+          "miniTitle": "SERVICIO DESTACADO",
+          "mainTitle": "Impulsamos tu crecimiento a través del comercio inteligente y soluciones personalizadas",
+          "subTitle": "En Bizayla, combinamos conocimientos profundos del mercado, consultoría personalizada y estrategias innovadoras de empaque para ayudar a las empresas a liberar todo su potencial. Ya seas productor, exportador o propietario de una marca, estamos aquí para guiarte hacia un éxito sostenible y global.",
+          "cardsInfos": [
+            {
+              "title": "Planificación Empresarial y Tecnología",
+              "info": "En Bizayla, diseñamos estrategias de crecimiento impulsadas por tecnología moderna y análisis de mercado. Nuestros servicios de planificación ayudan a las empresas de alimentos y productos naturales a navegar en el comercio global, optimizar recursos y escalar con propósito."
+            },
+            {
+              "title": "Recursos Humanos y Consultoría",
+              "info": "Bizayla apoya a las empresas en la construcción de equipos culturalmente competentes y expertos en comercio. Nuestra consultoría de RR. HH. enfatiza la ética empresarial internacional, la colaboración multilingüe y la contratación especializada en los sectores de alimentos, minerales y exportación."
+            },
+            {
+              "title": "Oportunidades de Negocios Globales",
+              "info": "Desde Asia Central hasta Europa, Bizayla abre puertas para los productores locales. A través del branding, el empaque inteligente y la logística, transformamos productos naturales en bienes confiables a nivel mundial, listos para Berlín, Dubái y más allá."
+            },
+            {
+              "title": "Consultoría Familiar y Seguros",
+              "info": "Bizayla ofrece servicios de asesoramiento a exportadores y familias empresarias, ayudándoles a gestionar riesgos, cumplir regulaciones y planificar estratégicamente al ingresar a nuevos mercados. La estabilidad se combina con la oportunidad gracias a nuestro enfoque intercultural."
+            }
+          ],
+          "middleInfoTitle": "Desarrollo de Sitios Web",
+          "middleInfo": "En Bizayla, diseñamos y desarrollamos sitios web estratégicos y multilingües adaptados al comercio global y al branding de productos naturales. Nuestras plataformas digitales están diseñadas para conectar a los productores de Asia Central con compradores de todo el mundo, utilizando estándares modernos de UI/UX, diseño responsivo y funciones integradas de comercio electrónico. Ya sea que presentes sal premium, alimentos orgánicos o exportaciones de salud, nuestros sitios garantizan experiencias fluidas, presentación inteligente de productos y cumplimiento con las expectativas del mercado internacional.",
+          "middleCardItems": {
+            "title": "¿Por qué elegir los servicios de Bizayla?",
+            "info": "En Bizayla creemos en soluciones comerciales inteligentes, sostenibles y con visión global. Nuestro equipo de profesionales experimentados apoya a los clientes desde la estrategia hasta la ejecución, ofreciendo servicios de alta calidad en los sectores de productos alimenticios y minerales.",
+            "list": [
+              " Equipo de expertos multinacional",
+              " Soluciones personalizadas para desafíos del comercio global",
+              " Soporte integral de exportación e importación",
+              " Servicios estratégicos de branding y empaque"
+            ]
+          },
+          "iconItem1": {
+            "title": "Planificación Estratégica de Trabajo",
+            "info": "En Bizayla desarrollamos estrategias laborales personalizadas para alinearlas con los estándares del comercio internacional. Nuestra planificación estratégica garantiza operaciones de exportación e importación fluidas, cadenas de suministro optimizadas y rutas de crecimiento escalables."
+          },
+          "iconItem2": {
+            "title": "Soluciones Empresariales",
+            "info": "Ofrecemos soluciones empresariales prácticas y sostenibles adaptadas a las necesidades de tu mercado. Desde la innovación en empaques hasta la consultoría de marca y el soporte logístico, Bizayla ofrece soluciones comerciales completas que permiten a los productores locales prosperar globalmente."
+          },
+          "counterPart1": {
+            "count": "5K+",
+            "info": "Proyectos entregados con éxito"
+          },
+          "counterPart2": {
+            "count": "4.98",
+            "info": "Calificación promedio de clientes"
+          },
+          "counterPart3": {
+            "count": "99%",
+            "info": "Decisiones basadas en información"
+          }
+        }
+      },
+
+      {
+        "id": "2",
+        "category": "COMERCIO GLOBAL",
+        "title": "Soluciones de Importación/Exportación",
+        "description": "Conectamos productores con mercados globales, asegurando un comercio eficiente y transparente.",
+        "details": "Ver detalles",
+        "image": "/images/Main/10.jpg"
+      },
+      {
+        "id": "3",
+        "category": "MARCA DE PRODUCTO",
+        "title": "Soluciones de empaquetado",
+        "description": "Diseñamos branding y empaques personalizados listos para exportar a mercados internacionales.",
+        "details": "Ver detalles",
+        "image": "/images/Main/14.png",
+        "info": {
+          "miniTitle": "SERVICIO DESTACADO",
+          "mainTitle": "Branding de Producto y Soluciones de Empaque",
+          "subTitle": "En Bizayla, creamos soluciones personalizadas y listas para exportación en cuanto a branding y empaque que mejoran el atractivo global de tu producto. Desde diseños únicos hasta empaques sostenibles, nos aseguramos de que tus productos sean atractivos, cumplan con las normativas y estén optimizados para mercados internacionales. Nuestras soluciones incluyen etiquetado multilingüe, sensibilidad cultural y eficiencia logística, ayudando a que tu marca destaque mientras garantizamos una experiencia fluida para el cliente a nivel global.",
+          "cardsInfos": [
+            {
+              "title": "Diseño de Marca Personalizado y Empaque para Exportación",
+              "info": "En Bizayla, diseñamos empaques que no solo conservan la calidad de tu producto, sino que también muestran eficazmente la identidad de tu marca en mercados internacionales. Nuestros empaques cumplen con los estándares globales y se adaptan a las necesidades específicas de cada mercado objetivo."
+            },
+            {
+              "title": "Empaque Sostenible y Responsable",
+              "info": "Ante la creciente demanda de productos ecológicos, Bizayla ofrece soluciones de empaque sostenibles que reflejan el compromiso de tu marca con el medio ambiente. Utilizamos materiales reciclables y biodegradables para reducir el impacto ambiental sin comprometer la calidad del producto."
+            },
+            {
+              "title": "Etiquetado Multilingüe y Cumplimiento Global",
+              "info": "Como socio comercial internacional, diseñamos empaques con etiquetas multilingües y garantizamos el cumplimiento de regulaciones en diferentes mercados. Esto asegura que la información del producto sea clara y conforme a las leyes locales."
+            },
+            {
+              "title": "Optimización Logística y Protección del Producto",
+              "info": "En Bizayla, diseñamos empaques que protegen tus productos contra daños, humedad y contaminación, y al mismo tiempo optimizan la logística. Esto permite transportes más eficientes, mejor almacenamiento y reducción de costos de envío."
+            }
+          ],
+          "middleInfoTitle": "Soluciones de Marca y Empaque Personalizadas para Mercados Globales",
+          "middleInfo": "En Bizayla, nos especializamos en diseñar soluciones personalizadas y listas para exportar en branding y empaque. Nuestros servicios permiten a los productores de Asia Central introducir sus productos en mercados internacionales con diseños innovadores y normas globales. Nuestros empaques protegen el producto y hacen que tu marca sea reconocible y atractiva.",
+          "middleCardItems": {
+            "title": "¿Por qué Elegir Bizayla para tu Expansión Global?",
+            "info": "En Bizayla, ofrecemos soluciones innovadoras y personalizadas para facilitar un crecimiento sostenible en mercados internacionales. Nuestro equipo trabaja contigo desde la estrategia hasta la implementación para asegurar el éxito de tus productos a nivel global.",
+            "list": [
+              "Experiencia Global a tu Servicio",
+              "Estrategias Personalizadas para el Éxito",
+              "Soluciones Integrales de Exportación e Importación",
+              "Soluciones Completas de Branding y Empaque"
+            ]
+          },
+          "iconItem1": {
+            "title": "Planificación Estratégica",
+            "info": "En Bizayla, desarrollamos estrategias personalizadas para alinear tus operaciones con los estándares del comercio internacional. Ofrecemos optimización de procesos de exportación e importación, gestión de cadenas de suministro y rutas de crecimiento escalables para productos alimentarios y minerales."
+          },
+          "iconItem2": {
+            "title": "Soluciones Empresariales",
+            "info": "En Bizayla, brindamos soluciones prácticas y sostenibles adaptadas a tu mercado: desde innovación en empaque y consultoría de marca hasta soporte logístico completo para ayudarte a crecer a nivel internacional."
+          },
+          "counterPart1": {
+            "count": "5K+",
+            "info": "Proyectos Completados con Éxito"
+          },
+          "counterPart2": {
+            "count": "4.98",
+            "info": "Calificación Promedio de Clientes"
+          },
+          "counterPart3": {
+            "count": "99%",
+            "info": "Decisiones Basadas en Datos"
+          }
+        }
+      },
+      {
+        "id": "4",
+        "category": "LOGÍSTICA",
+        "title": "Soluciones de cadena de suministro",
+        "description": "Ofrecemos almacenamiento seguro y logística inteligente para tu cadena de suministro.",
+        "details": "Ver detalles",
+        "image": "/images/Main/13.png"
+      },
+      {
+        "id": "5",
+        "category": "PRODUCTOS NATURALES",
+        "title": "Planificación Empresarial y Tecnología",
+        "description": "En Bizayla, diseñamos estrategias de crecimiento impulsadas por tecnología moderna y conocimiento del mercado. Nuestros servicios de planificación ayudan a las empresas de alimentos y productos naturales a navegar el comercio global, optimizar recursos y escalar con propósito.",
+        "details": "View Details",
+        "image": "/images/Main/18.jpg"
+      },
+      {
+        "id": "6",
+        "category": "COMERCIO GLOBAL",
+        "title": "Recursos Humanos y Consultoría",
+        "description": "Bizayla apoya a las empresas a construir equipos culturalmente competentes y expertos en comercio. Nuestra consultoría en RRHH enfatiza la ética empresarial internacional, la colaboración multilingüe y el reclutamiento especializado en los sectores de alimentos, minerales y exportación.",
+        "details": "View Details",
+        "image": "/images/Main/15.png"
+      },
+      {
+        "id": "7",
+        "category": "IMAGEN DE MARCA",
+        "title": "Oportunidades de Negocio Global",
+        "description": "Desde Asia Central hasta Europa, Bizayla abre puertas a los productores locales. A través del branding, empaques inteligentes y logística, convertimos productos naturales en marcas confiables a nivel global—listas para Berlín, Dubái y más allá.",
+        "details": "View Details",
+        "image": "/images/Main/19.jpg"
+      },
+      {
+        "id": "8",
+        "category": "LOGÍSTICA",
+        "title": "Consultoría de Seguros para Familias",
+        "description": "Bizayla ofrece servicios de asesoría a exportadores y familias empresariales, ayudándoles a gestionar riesgos, cumplir con normativas y planificar estratégicamente al ingresar a nuevos mercados. La estabilidad se une con la oportunidad gracias a nuestro enfoque intercultural.",
+        "details": "View Details",
+        "image": "/images/Main/20.jpg"
+      },
+      {
+        "id": "9",
+        "category": "PRODUCTOS NATURALES",
+        "title": "Productos de alta calidad",
+        "description": "Bizayla exporta productos naturales de alta pureza para diversos usos globales con empaque incluido.",
+        "details": "Ver detalles",
+        "image": "/images/Main/11.png",
+        "info": {
+          "miniTitle": "SERVICIO DESTACADO",
+          "mainTitle": "Impulsando tu Negocio con Productos Naturales y Estándares Internacionales",
+          "subTitle": "En Bizayla ayudamos a las empresas a destacar en mercados globales ofreciendo productos naturales y orgánicos de la más alta calidad. Desde sales naturales hasta alimentos orgánicos y empaques personalizados, seguimos estándares internacionales para garantizar calidad, autenticidad y seguridad. Nuestro objetivo es ayudarte a ofrecer lo mejor y lograr un éxito sostenible.",
+          "cardsInfos": [
+            {
+              "title": "Sal Natural",
+              "info": "Bizayla ofrece una variedad de sales naturales provenientes de minas reconocidas. Estas sales se extraen y procesan cuidadosamente para conservar sus propiedades minerales. Desde sal marina hasta sal de montaña, todos los productos cumplen con los estándares más altos."
+            },
+            {
+              "title": "Productos Alimenticios Orgánicos",
+              "info": "En Bizayla priorizamos la salud del consumidor ofreciendo productos naturales y orgánicos sin fertilizantes químicos ni aditivos artificiales. Conservan su sabor auténtico y aportan beneficios a la salud."
+            },
+            {
+              "title": "Empaques Listos para Usar",
+              "info": "Nuestros empaques son funcionales, optimizados para transporte y visualmente atractivos. Ya sea para alimentos o exportaciones, todos protegen la calidad del producto y refuerzan la identidad de marca."
+            },
+            {
+              "title": "Calidad y Autenticidad del Producto",
+              "info": "Todos los productos de Bizayla pasan por estrictos controles de calidad y autenticidad. Usamos procesos avanzados y trabajamos con proveedores confiables para cumplir con los estándares internacionales."
+            }
+          ],
+          "middleInfoTitle": "Productos de Alta Calidad",
+          "middleInfo": "En Bizayla ofrecemos productos naturales y orgánicos de alta calidad para el mercado global. Desde sales minerales hasta alimentos orgánicos, todo está producido y empaquetado bajo los más altos estándares internacionales. Creemos que la calidad es clave para el éxito comercial.",
+          "middleCardItems": {
+            "title": "¿Por Qué Elegir Bizayla?",
+            "info": "En Bizayla nos enfocamos en ofrecer soluciones comerciales inteligentes, sostenibles y globales. Nuestro equipo experto te acompaña desde la estrategia hasta la ejecución en el sector alimentario y mineral.",
+            "list": [
+              "Equipo de Expertos Multinacional",
+              "Soluciones Adaptadas a los Retos del Comercio Global",
+              "Soporte Integral de Exportación e Importación",
+              "Servicios Estratégicos de Marca y Empaque"
+            ]
+          },
+          "iconItem1": {
+            "title": "Planificación Estratégica",
+            "info": "Creamos estrategias personalizadas alineadas con estándares internacionales. Garantizamos operaciones eficientes de exportación-importación, cadenas de suministro optimizadas y crecimiento escalable."
+          },
+          "iconItem2": {
+            "title": "Soluciones Empresariales",
+            "info": "Ofrecemos soluciones prácticas y sostenibles para tu mercado: empaques innovadores, consultoría en branding y apoyo logístico completo para expandirse globalmente."
+          },
+          "counterPart1": {
+            "count": "5K+",
+            "info": "Proyectos Entregados con Éxito"
+          },
+          "counterPart2": {
+            "count": "4.98",
+            "info": "Calificación Promedio de Clientes"
+          },
+          "counterPart3": {
+            "count": "99%",
+            "info": "Decisiones Basadas en Datos"
+          }
+        }
+      }
+    ],
+    "pricing": {
+      "title": "PLANES DE PRECIOS",
+      "description": "Elige el más cómodo",
+      "description1": "Plan de precios para tu",
+      "description2": "servicio de consultoría",
+      "features": "Utiliza continuamente servicios web virtuales maximizando acciones. Desarrolla consultoría frontend a nivel global.",
+      "guaranteed1": "Integridad garantizada",
+      "guaranteed2": "Enfocados en la satisfacción del cliente",
+      "starterPlan": {
+        "title": "Plan Inicial",
+        "subtitle": "Pequeñas Empresas",
+        "features": [
+          "Consulta. Empaque. Posicionamiento. Exportación.",
+          "Crea una marca artesanal a nivel global.",
+          "Certifícate. Sé internacional.",
+          "Traduce. Vende. Comunícate globalmente.",
+          "Conecta con compradores internacionales reales."
+        ],
+        "detail": [
+          "Promoción de productos en las plataformas oficiales de Bizayla y canales asociados",
+          "Consultoría experta en procedimientos de exportación, embalaje y posicionamiento de productos",
+          "Soporte de marca internacional para productos pequeños y artesanales",
+          "Marketing y ventas de productos orgánicos en mercados europeos",
+          "Marketing y promoción de sal comestible, industrial, terapéutica e higiénica",
+          "Alojamiento de ventas en línea para productos individuales",
+          "Páginas dedicadas para mostrar productos o marcas",
+          "Asesoramiento sobre la obtención de materias primas y materiales de embalaje",
+          "Asistencia para obtener certificaciones de exportación (por ejemplo, BIO, HACCP)",
+          "Conexiones con importadores, compradores y mayoristas",
+          "Diseño de embalajes simples y conformes para la exportación",
+          "Traducción de materiales de embalaje y promoción a idiomas clave (alemán, inglés, etc.)",
+          "Soporte personalizado a través de WhatsApp, correo electrónico y guía paso a paso"
+        ],
+        "button": "Mostrar detalles"
+      },
+      "businessPlan": {
+        "title": "Plan Empresarial",
+        "subtitle": "Empresas y Fabricantes",
+        "features": [
+          "Cumple. Importa. Sigue los estándares.",
+          "Apoyo en cada paso de exportación.",
+          "Compradores reales. Negocios reales.",
+          "Exporta productos orgánicos. Llega a Europa.",
+          "Crea una identidad de marca global."
+        ],
+        "detail": [
+          "Presentación integral de la marca con catálogos de productos multilingües",
+          "Exportación de alimentos orgánicos a Alemania y otros países europeos",
+          "Exportación de productos manufacturados desde instalaciones de producción de alimentos",
+          "Importación de todo tipo de sal desde Uzbekistán y otros países",
+          "Exportación e importación de materias primas para la producción alimentaria e industrial",
+          "Marketing y distribución internacional para empresas y marcas alimentarias",
+          "Branding profesional y desarrollo de identidad de marca internacional",
+          "Diseño de embalaje multilingüe personalizado conforme a regulaciones",
+          "Asesoramiento para obtener certificaciones de exportación y estándares internacionales de calidad",
+          "Cumplimiento de productos con regulaciones de importación y normas de seguridad de la UE",
+          "Investigación de mercado y análisis de demanda, tendencias y competencia",
+          "Planificación y representación en ferias alimentarias internacionales (por ejemplo, ANUGA, SIAL, BioFach)",
+          "Creación de contenido multilingüe y gestión de redes sociales",
+          "Configuración y gestión de ventas online B2B/B2C (Amazon, Alibaba, etc.)",
+          "Registro de marca internacional y generación de código de barras (EAN/GTIN)",
+          "Servicios de traducción para documentos técnicos, embalaje y publicidad",
+          "Conexión directa con importadores, compradores y minoristas europeos",
+          "Soporte completo en todos los pasos del comercio y expansión global",
+          "Asesoría y acceso a agencias certificadas de licencias de exportación",
+          "Servicios de marketing, ventas y exportación de sal, alimentos orgánicos y productos industriales",
+          "Apoyo y asesoramiento para ingresar oficialmente a los mercados europeos con integridad y alianzas a largo plazo"
+        ],
+        "button": "Mostrar detalles"
+      }
+    },
+    "marketing": {
+      "title": "CONSULTORÍA EN COMERCIO INTERNACIONAL",
+      "description": "Socio confiable en comercio global desde",
+      "features": "En Bizayla nos especializamos en consultoría de comercio internacional, estrategias de exportación-importación y branding inteligente para industrias de alimentos, sal y productos orgánicos. Hemos ayudado a numerosos productores y empresas a ingresar al mercado europeo, especialmente en Alemania."
+    },
+    "callArea": {
+      "title": "¿Deseas exportar o importar productos alimenticios o sal?",
+      "description": "Recibe asesoramiento experto de los consultores internacionales de Bizayla.",
+      "description2": "Llámanos hoy para comenzar tu viaje global.",
+      "button": "LLÁMANOS CUANDO QUIERAS",
+      "contact": "Contáctanos"
+    }
+  },
+  "blog": {
+    "breadcrumb": {
+      "title": "Blog",
+      "home": "Inicio",
+      "current": "Blog"
+    },
+    "title": "ÚLTIMOS ARTÍCULOS",
+    "subtitle": "Últimos conocimientos sobre comercio global y marca",
+    "subtitle2": "Bienvenido al blog oficial de Bizayla",
+    "readMore": "Leer más",
+    "detail": "Aquí compartimos conocimientos prácticos sobre empaque de exportación, marca, cadenas de suministro y tendencias del mercado global para ayudar a los productores y exportadores a crecer de manera inteligente y sostenible en los mercados internacionales.",
+    "blogCards": [
+      {
+        "id": "1",
+        "title": "De productos locales a estanterías globales",
+        "date": "20 ene. 2024",
+        "type": "NEGOCIOS",
+        "desc": "Descubre cómo Bizayla ayuda a los productores tradicionales a convertir la excelencia local en éxito global mediante estrategias inteligentes de comercio y marca."
+      },
+      {
+        "id": "2",
+        "title": "Empaques que hablan al mundo",
+        "date": "16 ene. 2024",
+        "type": "NEGOCIOS",
+        "desc": "Explora el impacto de los empaques culturalmente conscientes y listos para exportar — y cómo Bizayla adapta los diseños a los mercados globales."
+      },
+      {
+        "id": "3",
+        "title": "Comercio sostenible en acción",
+        "date": "10 ene. 2024",
+        "type": "NEGOCIOS",
+        "desc": "Conoce cómo equilibramos el crecimiento comercial con una logística ecológica y abastecimiento ético en nuestras cadenas de suministro de alimentos y minerales."
+      },
+      {
+        "id": "4",
+        "title": "Estrategias verdes para el crecimiento global",
+        "date": "4 ene. 2024",
+        "type": "NEGOCIOS",
+        "desc": "Descubre cómo Bizayla ayuda a los productores tradicionales a convertir la excelencia local en éxito global mediante estrategias inteligentes de comercio y marca."
+      },
+      {
+        "id": "5",
+        "title": "Planificación inteligente, impacto duradero",
+        "date": "3 ene. 2024",
+        "type": "NEGOCIOS",
+        "desc": "Conoce cómo equilibramos el crecimiento comercial con una logística ecológica y abastecimiento ético en nuestras cadenas de suministro de alimentos y minerales."
+      },
+      {
+        "id": "6",
+        "title": "Consultoría con propósito",
+        "date": "1 ene. 2024",
+        "type": "NEGOCIOS",
+        "desc": "Explora cómo la consultoría en negocios permite a las marcas crecer con responsabilidad ambiental y social."
+      },
+      {
+        "id": "7",
+        "title": "Desintermediación global de recursos de servicios extendidos",
+        "date": "28 de mayo de 2024",
+        "type": "NEGOCIOS",
+        "desc": "Descubre cómo Bizayla ayuda a los productores tradicionales a convertir la excelencia local en éxito global mediante estrategias inteligentes de comercio y marca."
+      },
+      {
+        "id": "8",
+        "title": "Empaques que hablan al mundo",
+        "date": "20 de mayo de 2024",
+        "type": "NEGOCIOS",
+        "desc": "Explora el impacto de empaques conscientes de la cultura y listos para exportar, y cómo Bizayla adapta los diseños a los mercados globales."
+      },
+      {
+        "id": "9",
+        "title": "Soluciones comerciales sostenibles en la práctica",
+        "date": "10 de mayo de 2024",
+        "type": "NEGOCIOS",
+        "desc": "Aprende cómo equilibramos el crecimiento comercial con una logística ecológica y un abastecimiento ético en nuestras cadenas de suministro alimentarias y minerales."
+      }
+    ]
+  },
+  "contact": {
+    "breadcrumb": {
+      "title": "Contacto",
+      "home": "Inicio",
+      "current": "Contacto"
+    },
+    "section": {
+      "getInTouch": "PÓNGASE EN CONTACTO",
+      "howToReach": "Cómo contactarnos:",
+      "description": "En Bizayla, la comunicación clara y efectiva con nuestros clientes, socios y asociados comerciales es uno de nuestros valores fundamentales. Siempre estamos listos para responder a sus consultas, sugerencias y solicitudes con atención y respeto. Ya sea que esté interesado en una colaboración comercial, compras de productos, oportunidades de exportación, representación u otro asunto, el equipo de soporte y gestión de Bizayla está aquí para ayudarle."
+    },
+    "info": {
+      "callAnytime": "Llámenos en cualquier momento",
+      "emailAnytime": "Envía un correo electrónico en cualquier momento.",
+      "phone": "+491749111715",
+      "phone2": "+998 99 888 88 88",
+      "emailLabel": "Envíenos un correo electrónico",
+      "email": "info@bizayla.com",
+      "locations": "Nuestras ubicaciones",
+      "address": "Bizayla: Darmstädter Straße 11, 63811 Stockstadt, Bayern, Germany",
+      "address2": "Chorbog Neighborhood, Sherobod District, Surxondaryo Region, 191400 Republic of Uzbekistan"
+    },
+    "form": {
+      "contactUs": "CONTÁCTENOS",
+      "getInTouch": "Póngase en contacto con BIZAYLA",
+      "yourName": "Su nombre",
+      "phoneNo": "Número de teléfono",
+      "emailAddress": "Dirección de correo electrónico",
+      "subject": "Asunto",
+      "writeMessage": "Escribir mensaje",
+      "requestCallBack": "Solicitar devolución de llamada"
+    },
+    "callArea": {
+      "sayHello": "Di hola",
+      "call": "+49 178 4450530"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "whatsapp": "WhatsApp",
+      "facebook": "Facebook",
+      "instagram": "Instagram"
+    }
+  },
+  "gallery": {
+    "breadcrumb": {
+      "title": "Galería",
+      "home": "Inicio",
+      "current": "Galería"
+    },
+    "hero": {
+      "sectionTitle": "TRABAJOS RECIENTES",
+      "title1": "Vea los resultados reales",
+      "title2": "Últimos casos de estudio"
+    },
+    "filters": {
+      "allItems": "Todos los elementos",
+      "exportTechnology": "Tecnología de exportación",
+      "globalTrade": "Comercio global",
+      "packagingDesign": "Diseño de embalaje",
+      "salt": "Sal",
+      "organicFood": "Alimentos orgánicos",
+      "driedFruits": "Frutas secas",
+      "driedVegetables": "Verduras secas",
+      "nuts": "Nueces",
+      "foodIndustry": "Industria alimentaria"
+    },
+    "items": [
+      {
+        "id": "1",
+        "category": "Tecnología de exportación",
+        "title": "Soluciones avanzadas de exportación",
+        "image": "/images/inner-img/port_1.png",
+        "alt": "Tecnología de exportación",
+        "filterClasses": "export-technology"
+      },
+      {
+        "id": "2",
+        "category": "Comercio global",
+        "title": "Red de comercio internacional",
+        "image": "/images/inner-img/port_2.png",
+        "alt": "Comercio global",
+        "filterClasses": "global-trade"
+      },
+      {
+        "id": "10",
+        "category": "Tecnología de exportación y comercio global",
+        "title": "Soluciones de exportación integradas",
+        "image": "/images/inner-img/port_4.png",
+        "alt": "Tecnología de exportación y comercio global",
+        "filterClasses": "export-technology global-trade"
+      },
+      {
+        "id": "3",
+        "category": "Diseño de embalaje",
+        "title": "Embalaje de exportación personalizado",
+        "image": "/images/inner-img/port_3.png",
+        "alt": "Diseño de embalaje",
+        "filterClasses": "packaging-design"
+      },
+      {
+        "id": "12",
+        "category": "Diseño de embalaje e industria alimentaria",
+        "title": "Embalaje para la industria alimentaria",
+        "image": "/images/inner-img/port_6.png",
+        "alt": "Diseño de embalaje e industria alimentaria",
+        "filterClasses": "packaging-design food-industry"
+      },
+      {
+        "id": "4",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(2).png",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "14",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(1).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "15",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(2).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "16",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(3).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "17",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(4).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "18",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(5).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "19",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(6).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "20",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(7).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "21",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(8).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "22",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(9).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "23",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(10).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "24",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(11).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "25",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(12).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "26",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(13).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "27",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(14).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "28",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(15).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "29",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(16).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "30",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(17).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "31",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(18).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "32",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(19).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "33",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(20).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "34",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(21).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "35",
+        "category": "Sal natural",
+        "title": "Exportación de sal natural de Uzbekistán",
+        "image": "/images/Gallery/Salt/salt(22).jpg",
+        "alt": "Sal natural",
+        "filterClasses": "salt"
+      },
+      {
+        "id": "5",
+        "category": "Alimentos orgánicos",
+        "title": "Productos orgánicos premium",
+        "image": "/images/inner-img/port_5.png",
+        "alt": "Alimentos orgánicos",
+        "filterClasses": "organic-food"
+      },
+      {
+        "id": "11",
+        "category": "Alimentos orgánicos y frutas secas",
+        "title": "Productos orgánicos naturales",
+        "image": "/images/inner-img/port_5.png",
+        "alt": "Alimentos orgánicos y frutas secas",
+        "filterClasses": "organic-food dried-fruits"
+      },
+      {
+        "id": "6",
+        "category": "Frutas secas",
+        "title": "Frutas secas premium",
+        "image": "/images/inner-img/port_6.png",
+        "alt": "Frutas secas",
+        "filterClasses": "dried-fruits"
+      },
+      {
+        "id": "7",
+        "category": "Verduras secas",
+        "title": "Verduras secas naturales",
+        "image": "/images/inner-img/port_1.png",
+        "alt": "Verduras secas",
+        "filterClasses": "dried-vegetables"
+      },
+      {
+        "id": "8",
+        "category": "Nueces",
+        "title": "Nueces premium",
+        "image": "/images/inner-img/port_2.png",
+        "alt": "Nueces",
+        "filterClasses": "nuts"
+      },
+      {
+        "id": "9",
+        "category": "Industria alimentaria",
+        "title": "Soluciones para la industria alimentaria",
+        "image": "/images/inner-img/port_3.png",
+        "alt": "Industria alimentaria",
+        "filterClasses": "food-industry"
+      },
+      {
+        "id": "36",
+        "category": "Tecnología de exportación",
+        "title": "Soluciones avanzadas de exportación",
+        "image": "/images/Gallery/Export-Tech/Tech(2).png",
+        "alt": "Tecnología de exportación",
+        "filterClasses": "export-technology"
+      },
+      {
+        "id": "37",
+        "category": "Tecnología de exportación",
+        "title": "Soluciones avanzadas de exportación",
+        "image": "/images/Gallery/Export-Tech/Tech(3).png",
+        "alt": "Tecnología de exportación",
+        "filterClasses": "export-technology"
+      },
+      {
+        "id": "38",
+        "category": "Comercio global",
+        "title": "Red de comercio internacional",
+        "image": "/images/Gallery/Global-Trade/Global(2).jpg",
+        "alt": "Comercio global",
+        "filterClasses": "global-trade"
+      },
+      {
+        "id": "39",
+        "category": "Comercio global",
+        "title": "Red de comercio internacional",
+        "image": "/images/Gallery/Global-Trade/Global(3).jpg",
+        "alt": "Comercio global",
+        "filterClasses": "global-trade"
+      },
+      {
+        "id": "40",
+        "category": "Comercio global",
+        "title": "Red de comercio internacional",
+        "image": "/images/Gallery/Global-Trade/Global(4).jpg",
+        "alt": "Comercio global",
+        "filterClasses": "global-trade"
+      },
+      {
+        "id": "41",
+        "category": "Diseño de embalaje",
+        "title": "Embalaje de exportación personalizado",
+        "image": "/images/Gallery/Packaging-Design/Pack(2).jpg",
+        "alt": "Diseño de embalaje",
+        "filterClasses": "packaging-design"
+      },
+      {
+        "id": "42",
+        "category": "Diseño de embalaje",
+        "title": "Embalaje de exportación personalizado",
+        "image": "/images/Gallery/Packaging-Design/Pack(3).jpg",
+        "alt": "Diseño de embalaje",
+        "filterClasses": "packaging-design"
+      },
+      {
+        "id": "44",
+        "category": "Alimentos orgánicos",
+        "title": "Productos orgánicos premium",
+        "image": "/images/Gallery/Organic-Food/Organic(2).jpg",
+        "alt": "Alimentos orgánicos",
+        "filterClasses": "organic-food"
+      },
+      {
+        "id": "45",
+        "category": "Alimentos orgánicos",
+        "title": "Productos orgánicos premium",
+        "image": "/images/Gallery/Organic-Food/Organic(3).jpg",
+        "alt": "Alimentos orgánicos",
+        "filterClasses": "organic-food"
+      },
+      {
+        "id": "46",
+        "category": "Frutas secas",
+        "title": "Frutas secas premium",
+        "image": "/images/Gallery/Dried-Food/Dried(2).jpg",
+        "alt": "Frutas secas",
+        "filterClasses": "dried-fruits"
+      },
+      {
+        "id": "47",
+        "category": "Verduras secas",
+        "title": "Verduras secas naturales",
+        "image": "/images/Gallery/Dried-Veg/Dried(2).jpg",
+        "alt": "Verduras secas",
+        "filterClasses": "dried-vegetables"
+      },
+      {
+        "id": "48",
+        "category": "Nueces",
+        "title": "Nueces de calidad premium",
+        "image": "/images/Gallery/Nuts/Nuts(2).jpg",
+        "alt": "Nueces",
+        "filterClasses": "nuts"
+      },
+      {
+        "id": "49",
+        "category": "Nueces",
+        "title": "Nueces de calidad premium",
+        "image": "/images/Gallery/Nuts/Nuts(2) (1).jpg",
+        "alt": "Nueces",
+        "filterClasses": "nuts"
+      },
+      {
+        "id": "50",
+        "category": "Industria alimentaria",
+        "title": "Soluciones para la industria alimentaria",
+        "image": "/images/Gallery/Food-Industry/Food(2).jpg",
+        "alt": "Industria alimentaria",
+        "filterClasses": "food-industry"
+      },
+      {
+        "id": "51",
+        "category": "Industria alimentaria",
+        "title": "Soluciones para la industria alimentaria",
+        "image": "/images/Gallery/Food-Industry/Food(3).jpg",
+        "alt": "Industria alimentaria",
+        "filterClasses": "food-industry"
+      }
+    ]
+  },
+  "footer": {
+    "about": {
+      "title": "Sobre nosotros",
+      "desc": "Bizayla es una empresa global de comercio y branding que conecta productos naturales de alta calidad de Asia Central con mercados internacionales mediante empaques inteligentes, logística confiable y asociaciones sólidas."
+    },
+    "company": {
+      "title": "Compañía",
+      "about": "Sobre nosotros",
+      "blog": "Blog",
+      "contact": "Contáctanos",
+      "gallery": "Galería"
+    },
+    "service": {
+      "title": "Servicios",
+      "trade": "Comercio internacional",
+      "export": "Gestión de exportaciones",
+      "packaging": "Empaque de alimentos y minerales",
+      "marketing": "Branding y marketing",
+      "supply": "Cadena de suministro y almacenamiento"
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "notFound": "Página no encontrada",
+    "backToHome": "Volver al inicio"
+  },
+  "faq": {
+    "breadcrumb": {
+      "title": "FAQs",
+      "home": "Home",
+      "current": "faq"
+    },
+    "header": {
+      "title": "PREGUNTAS FRECUENTES",
+      "desc": "Respuestas rápidas a tus preguntas sobre el servicio"
+    },
+    "faqData": [
+      {
+        "question": "¿Qué servicios ofrecen?",
+        "answer": "Bizayla ofrece soluciones de comercio internacional y exportación, especializándose en el envasado de productos alimenticios y naturales, branding global y logística inteligente. Ayudamos a las empresas a ampliar su alcance mediante consultoría personalizada, abastecimiento de productos y gestión de la cadena de suministro transfronteriza, garantizando que cada producto esté listo para los mercados internacionales."
+      },
+      {
+        "question": "¿Cuánto tiempo dura un proyecto típico?",
+        "answer": "La duración de un proyecto de Bizayla depende del tipo de producto, el mercado objetivo y los requisitos logísticos. Por ejemplo, preparar el envasado y la documentación listos para la exportación puede llevar de 1 a 3 semanas, mientras que las operaciones de abastecimiento y cadena de suministro a gran escala pueden requerir de 1 a 3 meses. Definimos plazos precisos en coordinación con cada cliente según sus necesidades y las regulaciones del país de destino."
+      },
+      {
+        "question": "¿Ofrecen soporte continuo?",
+        "answer": "Sí, Bizayla ofrece soporte continuo en cada etapa del proceso de exportación y comercio. Desde el abastecimiento y el envasado hasta la documentación, la coordinación logística y el seguimiento posterior al envío, mantenemos un contacto estrecho con nuestros clientes. Nuestro equipo garantiza un despacho de aduanas fluido, el cumplimiento normativo y una entrega fiable, proporcionando asistencia dedicada para cada envío y una asociación comercial a largo plazo."
+      },
+      {
+        "question": "¿Qué tecnologías utilizan?",
+        "answer": "En Bizayla utilizamos una combinación de herramientas avanzadas de cadena de suministro, sistemas digitales de gestión comercial y tecnologías de envasado inteligente para respaldar nuestras operaciones globales de exportación de alimentos y minerales. Nuestras soluciones incluyen seguimiento automatizado de pedidos, plataformas B2B multilingües, monitoreo de inventario en tiempo real y software de optimización logística. Estas tecnologías nos ayudan a garantizar entregas puntuales, trazabilidad de productos y una comunicación fluida con nuestros socios internacionales."
+      },
+      {
+        "question": "¿Ofrecen servicios de alojamiento de marketing internacional y ventas para productores, empresas y productos alimenticios?",
+        "answer": "Sí, Bizayla ofrece servicios integrales de alojamiento de marketing internacional y venta de productos alimenticios y naturales para productores y empresas. Creamos plataformas digitales multilingües, páginas de presentación de productos, presentaciones de marca y sistemas de gestión de contenidos para ayudar a las empresas a introducir y exportar sus bienes a mercados objetivo en Europa, Oriente Medio y Asia. Nuestros servicios incluyen: alojamiento y diseño de páginas de ventas dedicadas, marketing digital, optimización para la exportación (envasado, documentación, presentación multilingüe), conexión directa entre productores y compradores/distribuidores globales. Bizayla es el puente entre la producción local y la demanda global: con nosotros, sus productos están listos para el éxito internacional."
+      }
+    ]
+  }
+}
