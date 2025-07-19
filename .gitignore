@@ -38,4 +38,13 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+# ارسال فایل‌های مورد نیاز برای اجرا
+!/.next/
+!/package.json
+!/next.config.*
+!/public/
+!/postcss.config.js
+!/tailwind.config.*
+!/tsconfig.json
+!/README.md
 next-env.d.ts
